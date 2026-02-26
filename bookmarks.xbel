@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :543: for Floccus bookmark sync browser extension -->
+<!--- highestId :544: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
   <bookmark href="chrome://settings/content/all" id="4">
     <title>cookies</title>
+  </bookmark>
+  <bookmark href="chrome://history/" id="544">
+    <title>History</title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -73,17 +76,17 @@
     <bookmark href="https://docs.google.com/spreadsheets/d/1zXiOBvwfnx_0DAVqaQ_wZdkYh0yNYa5e1blydW1krMc/edit?pli=1#gid=0" id="34">
       <title>Netskope Activities Directory - Google Sheets</title>
     </bookmark>
-    <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/4650008753/Capacity+Request+Portal" id="487">
-      <title>Capacity Request Portal - Capacity Management - Confluence</title>
-    </bookmark>
-    <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/1212711352/Netskope+Cloud+Capacity+Request+Process" id="488">
-      <title>Netskope Cloud Capacity Request Process - Capacity Management - Confluence</title>
-    </bookmark>
     <bookmark href="https://netskope.atlassian.net/wiki/spaces/ESS/overview" id="542">
       <title>About ESS - Engineering Stack Support - Confluence</title>
     </bookmark>
     <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="543">
       <title>Guide to AWS Prism Grafana - observability - Confluence</title>
+    </bookmark>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/4650008753/Capacity+Request+Portal" id="487">
+      <title>Capacity Request Portal - Capacity Management - Confluence</title>
+    </bookmark>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/1212711352/Netskope+Cloud+Capacity+Request+Process" id="488">
+      <title>Netskope Cloud Capacity Request Process - Capacity Management - Confluence</title>
     </bookmark>
   </folder>
   <folder id="9">
