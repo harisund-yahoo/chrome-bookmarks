@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :542: for Floccus bookmark sync browser extension -->
+<!--- highestId :543: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -76,8 +76,8 @@
     <bookmark href="https://netskope.atlassian.net/wiki/spaces/ESS/overview" id="542">
       <title>About ESS - Engineering Stack Support - Confluence</title>
     </bookmark>
-    <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="498">
-      <title>netskope.atlassian.net</title>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="543">
+      <title>Guide to AWS Prism Grafana - observability - Confluence</title>
     </bookmark>
     <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/4650008753/Capacity+Request+Portal" id="487">
       <title>Capacity Request Portal - Capacity Management - Confluence</title>
