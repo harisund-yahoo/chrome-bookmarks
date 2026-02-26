@@ -1,0 +1,1626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :540: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Bookmarks Bar</title>
+  <bookmark href="chrome://bookmarks/" id="3">
+    <title>Bookmarks</title>
+  </bookmark>
+  <bookmark href="chrome://settings/content/all" id="4">
+    <title>cookies</title>
+  </bookmark>
+</folder>
+<folder id="2">
+  <title>Other Bookmarks</title>
+  <folder id="5">
+    <title>ethercalc</title>
+    <bookmark href="https://ethercalc.net/55zwmu6nj3vk" id="15">
+      <title>55zwmu6nj3vk – EtherCalc</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>misc</title>
+    <bookmark href="https://www.depicus.com/wake-on-lan/wake-on-lan-cmd#google_vignette" id="17">
+      <title>Welcome To Depicus - Home of the Geek</title>
+    </bookmark>
+    <bookmark href="https://app.slash.com/login" id="18">
+      <title>Login</title>
+    </bookmark>
+  </folder>
+  <folder id="7">
+    <title>misc-reddit</title>
+    <bookmark href="https://old.reddit.com/r/india/comments/1mdv25k/my_friend_was_brutally_beaten_by_cops_in_noida/" id="20">
+      <title>My friend was brutally beaten by cops in Noida for trying to buy some weed. They called his parents and labeled him a junkie. What the hell are we doing? : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1mdvzzp/my_neighbour_has_a_problem_with_me_and_my/" id="21">
+      <title>My neighbour has a problem with me and my roommate hanging clothes out to dry - help. : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1mcv28c/upi_may_charge_users_for_sending_receiving_money/" id="22">
+      <title>UPI May Charge Users For Sending, Receiving Money In Future, Says RBI Governor Sanjay Malhotra : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1mds7iv/dead_economies_trumps_explosive_comment_on/" id="23">
+      <title>‘Dead Economies’: Trump’s Explosive Comment on India-Russia Ties : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1mdtkyo/indiarussia_can_take_their_dead_economies_down/" id="24">
+      <title>&apos;India-Russia can take their dead economies down together&apos;: Trump’s new jab after 25% tariffs; issues warning to ex-Russian President : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1mdrule/trump_announces_us_will_develop_massive_oil/" id="25">
+      <title>Trump announces US will develop &apos;massive&apos; oil reserves in Pakistan, says they might sell to &apos;India some day&apos; : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1me0elo/rahul_gandhi_backs_dead_economy_remark_on_india/" id="26">
+      <title>Rahul Gandhi backs ‘dead economy’ remark on India: ‘Glad Donald Trump stated a fact’ : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/india/comments/1me467l/indias_diplomatic_failures_arent_just_trumps/" id="27">
+      <title>India’s diplomatic failures aren’t just Trump’s fault. It’s the price of Modi’s narcissism : india</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/bangalore/comments/1mdcs31/6km_cycle_ride_to_office_daily_good_idea/" id="28">
+      <title>6KM cycle ride to office daily - good idea??? : bangalore</title>
+    </bookmark>
+    <bookmark href="https://www.reddit.com/r/AskIndianWomen/comments/1mufj0k/why_do_some_people_think_women_always_have_the/n9p7t5v/" id="29">
+      <title>Why do some people think women &quot;always have the option&quot; to depend on a husband ? : AskIndianWomen</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>netskope-unorganized</title>
+    <bookmark href="https://netskope.atlassian.net/servicedesk/customer/article/3888185541" id="31">
+      <title>Getting Started - Jira Service Management</title>
+    </bookmark>
+    <bookmark href="https://intranet.netskope.io/" id="32">
+      <title>intranet.netskope.io</title>
+    </bookmark>
+    <bookmark href="https://netskope.atlassian.net/servicedesk/customer/article/863043588" id="33">
+      <title>Applications and Owner Matrix - Jira Service Management</title>
+    </bookmark>
+    <bookmark href="https://docs.google.com/spreadsheets/d/1zXiOBvwfnx_0DAVqaQ_wZdkYh0yNYa5e1blydW1krMc/edit?pli=1#gid=0" id="34">
+      <title>Netskope Activities Directory - Google Sheets</title>
+    </bookmark>
+  </folder>
+  <folder id="9">
+    <title>reddit-WFH</title>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m9yukl/for_people_whose_entire_work_days_arent_meetings/" id="36">
+      <title>For people whose entire work days aren’t meetings, what do you do? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m9gryg/wfh_essentials/" id="37">
+      <title>WFH Essentials? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m6rdju/rto/" id="38">
+      <title>RTO : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m7hd2e/desk_setup_question_mouse_pad_or_desk_pad/" id="39">
+      <title>Desk Setup Question. Mouse Pad or Desk Pad? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m6wbcv/where_to_go_for_social_interaction/" id="40">
+      <title>Where to go for social interaction : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m6nwid/ladies_where_are_we_shopping_for_corporate/" id="41">
+      <title>Ladies, where are we shopping for corporate appropriate clothes? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m5nerp/computer_issuesituser_error_and_embarrassment/" id="42">
+      <title>Computer issues/IT/User error and embarrassment : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m61kgt/work_life_balance/" id="43">
+      <title>Work life balance? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m5h4ze/kvm_switch_for_workpersonal_pc_that_isnt_garbage/" id="44">
+      <title>KVM switch for work/personal PC that isnt garbage? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m4wco9/i_have_a_500_wfh_allowance_looking_for/" id="45">
+      <title>I have a $500 WFH allowance. Looking for recommendations : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m49fwh/just_got_laid_off/" id="46">
+      <title>Just got laid off : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m40uod/sometimes_people_dont_get_im_on_call_even_though/" id="47">
+      <title>Sometimes people don’t get I’m “on call” even though I WFH : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m4ef9x/would_you_rather_have_a_micromanager_or_hands_off/" id="48">
+      <title>Would you rather have a micromanager or hands off manager : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m2xru5/has_anyone_become_remote_by_reapplying_to_their/" id="49">
+      <title>Has anyone become remote by reapplying to their own position and renegotiating terms? : WFH</title>
+    </bookmark>
+    <bookmark href="https://old.reddit.com/r/WFH/comments/1m0pu1e/benefits_of_rto/" id="50">
+      <title>Benefits of RTO : WFH</title>
+    </bookmark>
+  </folder>
+  <folder id="10">
+    <title>tools-chkdsk</title>
+    <bookmark href="https://www.ionos.com/digitalguide/server/configuration/chkdsk-commands/" id="52">
+      <title>chkdsk command | How to run CHKDSK to fix hard drive problems - IONOS</title>
+    </bookmark>
+    <bookmark href="https://www.avast.com/c-chkdsk-windows" id="53">
+      <title>How to Use CHKDSK to Scan &amp; Fix Windows Hard Drives | Avast</title>
+    </bookmark>
+    <bookmark href="https://www.avg.com/en/signal/how-to-use-chkdsk-windows" id="54">
+      <title>CHKDSK /F /R /X Commands to Scan &amp; Fix Hard Drives | AVG</title>
+    </bookmark>
+    <bookmark href="https://mysupport.razer.com/app/answers/detail/a_id/6234/~/how-to-use-the-check-disk-tool-to-repair-your-hard-drive" id="55">
+      <title>How to use the Check Disk tool to repair your hard drive</title>
+    </bookmark>
+    <bookmark href="https://kb.acronis.com/content/72322?ckattempt=1" id="56">
+      <title>Acronis Cyber Protect Products: How to use CHKDSK to repair your drives | Knowledge Base</title>
+    </bookmark>
+    <bookmark href="https://www.dell.com/support/kbdoc/en-in/000148643/using-the-chkdsk-utility" id="57">
+      <title>Using the Chkdsk Utility | Dell India</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/chkdsk?tabs=event-viewer" id="58">
+      <title>chkdsk | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://www.lifewire.com/chkdsk-command-2625838" id="59">
+      <title>How to Use the Chkdsk Command in Windows</title>
+    </bookmark>
+    <bookmark href="https://www.easeus.com/partition-manager-software/run-chkdsk-to-check-repair-drive.html" id="60">
+      <title>CHKDSK /F /R /X Command to Fix Hard Drive Errors Windows 10</title>
+    </bookmark>
+    <bookmark href="https://www.which.co.uk/reviews/troubleshooting-tips/article/how-to-use-chkdsk-check-disk-to-repair-a-hard-drive-aHrf91E8dwFk" id="61">
+      <title>How to use CHKDSK (Check Disk) to repair a hard drive - Which?</title>
+    </bookmark>
+    <bookmark href="https://phoenixnap.com/kb/chkdsk-command#:~:text=In%20the%20chkdsk%20context%2C%20an,the%20volume%20to%20fix%20errors.&amp;text=Specify%20a%20volume%20for%20chkdsk,(e.g.%2C%20C%3A%20)." id="62">
+      <title>chkdsk Command with Examples {5 Examples}</title>
+    </bookmark>
+    <bookmark href="https://superuser.com/questions/906222/in-chkdsk-what-is-an-online-scan" id="63">
+      <title>windows 8 - In chkdsk, what is an online scan? - Super User</title>
+    </bookmark>
+    <bookmark href="https://www.neowin.net/forum/topic/1162464-could-someone-explain-the-new-chkdsk-options-whats-an-online-scan/" id="64">
+      <title>Could someone explain the new chkdsk options? What&apos;s an online scan? - Microsoft (Windows) - Neowin</title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>tools-rclone</title>
+    <bookmark href="https://forum.rclone.org/t/autostart-rclone-mount-on-windows/31875/13" id="65">
+      <title>Autostart rclone mount on Windows - Howto Guides - rclone forum</title>
+    </bookmark>
+    <bookmark href="https://www.coretechnologies.com/products/AlwaysUp/Apps/InstallRcloneAsWindowsService.html" id="66">
+      <title>How to Install and Run Rclone as a Windows Service | AlwaysUp</title>
+    </bookmark>
+  </folder>
+  <folder id="12">
+    <title>Twitter</title>
+    <bookmark href="https://x.com/i/trending/1989201469237563475" id="67">
+      <title>x.com/i/trending/1989201469237563475</title>
+    </bookmark>
+    <bookmark href="https://x.com/ShivAroor/status/1983927471004119254" id="68">
+      <title>x.com/ShivAroor/status/1983927471004119254</title>
+    </bookmark>
+    <bookmark href="https://x.com/NalinisKitchen/status/1983056077429129381" id="69">
+      <title>x.com/NalinisKitchen/status/1983056077429129381</title>
+    </bookmark>
+    <bookmark href="https://x.com/RoshanKrRaii/status/1982481188850974854" id="70">
+      <title>x.com/RoshanKrRaii/status/1982481188850974854</title>
+    </bookmark>
+    <bookmark href="https://x.com/championswimmer/status/1983098617553662440" id="71">
+      <title>x.com/championswimmer/status/1983098617553662440</title>
+    </bookmark>
+    <bookmark href="https://x.com/svembu/status/1983070224912883829" id="72">
+      <title>x.com/svembu/status/1983070224912883829</title>
+    </bookmark>
+  </folder>
+  <folder id="13">
+    <title>windows-system-disable-upgrade-restarts</title>
+    <bookmark href="https://superuser.com/questions/1817039/disable-automatic-restarts-windows-11" id="73">
+      <title>Disable automatic restarts Windows 11 - Super User</title>
+    </bookmark>
+    <bookmark href="https://superuser.com/questions/957267/how-to-disable-automatic-reboots-in-windows-10/1529456#1529456" id="74">
+      <title>How to *disable* automatic reboots in Windows 10? - Super User</title>
+    </bookmark>
+    <bookmark href="https://www.thewindowsclub.com/windows-updates-restart-disable" id="75">
+      <title>How to disable Automatic Restart after Windows Update</title>
+    </bookmark>
+  </folder>
+  <folder id="14">
+    <title>windows-system-power-options</title>
+    <bookmark href="https://www.google.com/search?q=Standby+Battery+Budget+Exceeded&amp;sca_esv=d5e847b1dc31b2cb&amp;ei=Vw6SaKWDBpfl1e8P2OyImAQ&amp;ved=0ahUKEwjlisKa6vOOAxWXcvUHHVg2AkMQ4dUDCBE&amp;uact=5&amp;oq=Standby+Battery+Budget+Exceeded&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiH1N0YW5kYnkgQmF0dGVyeSBCdWRnZXQgRXhjZWVkZWRIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEDyAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcA&amp;sclient=gws-wiz-serp" id="76">
+      <title>Standby Battery Budget Exceeded - Google Search</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/answers/questions/4296256/how-to-change-modernstandby-budget-percentage?page=1#answers" id="77">
+      <title>How to change ModernStandby Budget Percentage - Microsoft Q&amp;A</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/windows-hardware/customize/power-settings/adaptive-hibernate" id="78">
+      <title>Adaptive Hibernate Overview | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/windows-hardware/customize/power-settings/adaptive-hibernate" id="79">
+      <title>Adaptive Hibernate Overview | Microsoft Learn</title>
+    </bookmark>
+    <bookmark href="https://www.elevenforum.com/t/modifying-the-standby-battery-budget.37350/" id="80">
+      <title>Modifying the &quot;Standby Battery Budget&quot;? | Windows 11 Forum</title>
+    </bookmark>
+    <bookmark href="https://superuser.com/questions/1437851/how-to-access-hidden-power-and-processor-options-in-windows-10" id="81">
+      <title>How to Access Hidden Power and Processor Options in Windows 10 - Super User</title>
+    </bookmark>
+    <bookmark href="https://learn.microsoft.com/en-us/answers/questions/3981541/the-system-is-entering-sleep-sleep-reason-hibernat" id="82">
+      <title>The system is entering sleep. Sleep Reason: Hibernate from Sleep - Standby Battery Budget Exceeded - Microsoft Q&amp;A</title>
+    </bookmark>
+    <bookmark href="https://www.bing.com/search?q=scheme_current+sub_presence+standbybudgetpercent&amp;gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIICAEQ6QcY_FWoAgCwAgA&amp;FORM=ANCMS9&amp;PC=U531" id="83">
+      <title>scheme_current sub_presence standbybudgetpercent - Search</title>
+    </bookmark>
+    <bookmark href="https://superuser.com/questions/1791667/how-can-i-read-values-set-with-powercfg-setdcvalueindex" id="84">
+      <title>windows - How can I read values set with powercfg /setdcvalueindex? - Super User</title>
+    </bookmark>
+    <bookmark href="https://gist.github.com/raspi/203aef3694e34fefebf772c78c37ec2c" id="85">
+      <title>Enable all advanced power settings in Windows. · GitHub</title>
+    </bookmark>
+    <bookmark href="https://superuser.com/questions/1437851/how-to-access-hidden-power-and-processor-options-in-windows-10" id="86">
+      <title>How to Access Hidden Power and Processor Options in Windows 10 - Super User</title>
+    </bookmark>
+    <bookmark href="https://anotepad.com/notes/wqdi3k8c" id="87">
+      <title>Windows Power related Registry Commands - Online Notepad</title>
+    </bookmark>
+  </folder>
+  <folder id="16">
+    <title>YouTube</title>
+    <bookmark href="https://www.youtube.com/watch?v=ui5LpqKgg8s" id="88">
+      <title>Honey Honey - 4K Video Song | ஹனி ஹனி | Ayan -அயன்| Suriya | Tamannah | KV Anand | HarrisJayaraj - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=l1esLxPk54I&amp;list=RDGMEM916WJxafRUGgOvd6dVJkeQ&amp;index=5" id="89">
+      <title>May Maasam - HD Video Song மே மாசம் | Jay Jay | Madhavan | Amogha | Bharathwaj | Ayngaran - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=95I5VaR7GeU&amp;list=RDGMEM916WJxafRUGgOvd6dVJkeQ" id="90">
+      <title>Laila Main Laila | Raees | Shah Rukh Khan | Sunny Leone | Pawni Pandey | Ram Sampath - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=gavPKwaMFyc&amp;list=RD2uUmHTgT65I&amp;index=16" id="91">
+      <title>Dil Laga Na | Full Song | Dhoom:2 | Hrithik Roshan, Aishwarya Rai, Abhishek, Uday, Bipasha | Pritam - YouTube</title>
+    </bookmark>
+    <bookmark href="https://www.youtube.com/watch?v=V0ai-gQP2wY&amp;list=RDaHY8x1wPfSg&amp;index=32" id="92">
+      <title>Uchimandai 8K/4K Video Song | Vettaikaaran | Vijay, Anushka | Vijay Antony - YouTube</title>
+    </bookmark>
+  </folder>
+  <folder id="19">
+    <title>still-to-organize</title>
+    <bookmark href="https://www.bleepingcomputer.com/news/microsoft/new-windows-11-registry-hacks-to-customize-your-device/" id="93">
+      <title>New Windows 11 registry hacks to customize your device</title>
+    </bookmark>
+    <bookmark href="https://anotepad.com/notes/2ita26aa" id="94">
+      <title>DCU-CLI</title>
+    </bookmark>
+    <bookmark href="https://medium.com/@dbilanoski/windows-shell-folders-the-whys-the-whats-the-hows-and-a-complete-list-of-them-7e33e1b826cf" id="95">
+      <title>Windows Shell Folders — The Whys, The Whats, The Hows (And A Complete List Of Them) | by Danilo Bilanoski | Medium</title>
+    </bookmark>
+    <folder id="96">
+      <title>ssl</title>
+      <bookmark href="https://www.cloudflare.com/learning/ssl/what-is-an-ssl-certificate/" id="111">
+        <title>What is an SSL certificate? | Cloudflare</title>
+      </bookmark>
+      <bookmark href="https://www.ssl.com/article/what-is-an-electronic-signature/" id="112">
+        <title>What is an Electronic Signature? - SSL.com</title>
+      </bookmark>
+      <bookmark href="https://www.geeksforgeeks.org/computer-networks/digital-signatures-certificates/" id="113">
+        <title>Digital Signatures and Certificates - GeeksforGeeks</title>
+      </bookmark>
+      <bookmark href="https://www.thesslstore.com/blog/what-is-a-digital-signature/" id="114">
+        <title>What Is a Digital Signature &amp; How Does It Help Your Organization? - Hashed Out by The SSL Store™</title>
+      </bookmark>
+      <bookmark href="https://www.ibm.com/docs/en/cics-tg-zos/9.3.0?topic=established-digital-signatures-certificates-key-rings" id="115">
+        <title>Digital signatures, certificates and key rings - IBM Documentation</title>
+      </bookmark>
+      <bookmark href="https://medium.com/softaai-blogs/what-is-a-digital-signature-how-ssl-certificates-work-on-android-devices-cdcd94602937" id="116">
+        <title>What Is a Digital Signature &amp; How SSL Certificates Work on Android Devices | by amol pawar | softAai Blogs | Medium</title>
+      </bookmark>
+      <bookmark href="https://comodosslstore.com/blog/what-is-digital-signature-how-does-it-work.html" id="117">
+        <title>What is Digital Signature and How It Works?</title>
+      </bookmark>
+      <bookmark href="https://www.cloudflare.com/learning/ssl/how-does-ssl-work/" id="118">
+        <title>How does SSL work? | SSL certificates and TLS | Cloudflare</title>
+      </bookmark>
+      <bookmark href="https://www.digicert.com/what-is-an-ssl-certificate" id="119">
+        <title>What is an SSL Certificate? | DigiCert</title>
+      </bookmark>
+      <bookmark href="https://aws.amazon.com/what-is/ssl-certificate/" id="120">
+        <title>What Is An SSL Certificate? - SSL/TLS Certificate Explained - AWS</title>
+      </bookmark>
+      <bookmark href="https://medium.com/@vikramgyawali57/how-ssl-https-and-certificates-work-a-deep-dive-b5666ef6ece9" id="121">
+        <title>How SSL, HTTPS, and Certificates Work: A Deep Dive | by Bikram Gyawali | Medium</title>
+      </bookmark>
+      <bookmark href="https://api7.ai/blog/ssl-certificates" id="122">
+        <title>Ultimate Guide to SSL Certificates: From Core Concepts to Gateway Deployment - API7.ai</title>
+      </bookmark>
+    </folder>
+    <folder id="97">
+      <title>firefox-rename-profile</title>
+      <bookmark href="https://www.askwoody.com/forums/topic/renaming-firefox-profile/" id="123">
+        <title>Topic: Renaming Firefox profile @ AskWoody</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/23440479/i-want-to-rename-profile-folder" id="124">
+        <title>firefox - I want to rename profile folder - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://www.reddit.com/r/firefox/comments/cjj0ot/how_to_correctly_rename_a_profile_folder/" id="125">
+        <title>How to correctly rename a profile folder? : r/firefox</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="30">
+    <title>still-to-organize-001</title>
+    <folder id="98">
+      <title>Bookmarks bar</title>
+      <bookmark href="https://brave.com/" id="126">
+        <title></title>
+      </bookmark>
+      <folder id="127">
+        <title>common</title>
+        <bookmark href="https://news.ycombinator.com/" id="262">
+          <title>HN</title>
+        </bookmark>
+        <folder id="263">
+          <title>STOCK</title>
+          <bookmark href="https://finance.yahoo.com/quote/AVGO/" id="470">
+            <title>Broadcom Inc. (AVGO) Stock Price, News, Quote &amp; History - Yahoo Finance</title>
+          </bookmark>
+          <bookmark href="https://finance.yahoo.com/quote/NTSK" id="471">
+            <title>NTSK</title>
+          </bookmark>
+          <bookmark href="https://finance.yahoo.com/quote/NVDA/" id="472">
+            <title>NVIDIA Corporation (NVDA) Stock Price, News, Quote &amp; History - Yahoo Finance</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://finance.yahoo.com/portfolios/" id="264">
+          <title>Stock Portfolio Management &amp; Tracker - Yahoo Finance</title>
+        </bookmark>
+        <bookmark href="https://scribz.net/n" id="265">
+          <title>Scribz.net</title>
+        </bookmark>
+        <bookmark href="https://x.com/home" id="266">
+          <title>X</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/feed" id="267">
+          <title>LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.technofino.in/community/login/" id="268">
+          <title>Technofino</title>
+        </bookmark>
+        <bookmark href="https://www.instagram.com/" id="269">
+          <title>Instagram</title>
+        </bookmark>
+        <bookmark href="https://www.threads.com/" id="270">
+          <title>Threads</title>
+        </bookmark>
+        <bookmark href="https://lichess.org/?hook_like=3zJQrj9j" id="271">
+          <title>lichess.org • Free Online Chess</title>
+        </bookmark>
+        <bookmark href="https://www.chess.com/login" id="272">
+          <title>chess.com</title>
+        </bookmark>
+        <bookmark href="https://www.amazon.in/gp/css/order-history?ref_=nav_orders_first" id="273">
+          <title>Returns &amp; Orders</title>
+        </bookmark>
+        <bookmark href="https://accounts.google.com/accountchooser" id="274">
+          <title>Sign in - Google Accounts</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=IPL" id="275">
+          <title>IPL - Google Search</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=43454915" id="276">
+          <title>Show HN: LinkedIn sucks, so I built a better one | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://heyopenspot.com/" id="277">
+          <title>One profile to supercharge your job search &amp; network</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=43463200" id="278">
+          <title>I won&apos;t connect my dishwasher to your cloud | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://krita.org/en/features/" id="279">
+          <title>Features | Krita</title>
+        </bookmark>
+        <bookmark href="https://www.photopea.com/" id="280">
+          <title>Photopea | Online Photo Editor</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/jobs/view/4195540326/" id="281">
+          <title>Senior Software Engineer - Build and Deployment Tools | NVIDIA | LinkedIn</title>
+        </bookmark>
+      </folder>
+      <folder id="128">
+        <title>OPEN</title>
+        <folder id="282">
+          <title>New folder</title>
+          <bookmark href="https://scribz.net/n/1726012" id="473">
+            <title>2024-07-26</title>
+          </bookmark>
+          <folder id="474">
+            <title>tail web page / log page</title>
+            <bookmark href="https://www.google.com/search?q=tail+online+log+page+using+curl+or+wget&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=tail+online+log+page+using+curl+or+wget&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDQ4ODJqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="535">
+              <title>tail online log page using curl or wget - Google Search</title>
+            </bookmark>
+            <bookmark href="https://superuser.com/questions/514066/tail-f-equivalent-for-an-url" id="536">
+              <title>logging - tail -f equivalent for an URL - Super User</title>
+            </bookmark>
+            <bookmark href="https://stackoverflow.com/questions/31293629/is-there-a-way-to-perform-a-tail-f-from-an-url" id="537">
+              <title>linux - Is there a way to perform a &quot;tail -f&quot; from an url? - Stack Overflow</title>
+            </bookmark>
+            <bookmark href="https://superuser.com/questions/1267867/how-to-tail-file-from-url-without-downloading-the-entire-file" id="538">
+              <title>linux - How to tail file from url without downloading the entire file? - Super User</title>
+            </bookmark>
+            <bookmark href="https://stackoverflow.com/questions/46132361/how-can-i-redirect-tail-f-output-to-curl-http-stream" id="539">
+              <title>linux - How can I redirect tail -f output to curl (HTTP stream) - Stack Overflow</title>
+            </bookmark>
+            <bookmark href="https://serverfault.com/questions/502558/can-i-tail-an-http-resource" id="540">
+              <title>Can I tail an http resource? - Server Fault</title>
+            </bookmark>
+          </folder>
+          <bookmark href="https://www.idfcfirstbank.com/content/dam/idfcfirstbank/grievance-redressal/List-of-escalation-matrix-with-TAT-v2-2.pdf" id="475">
+            <title>List-of-escalation-matrix-with-TAT-v2-2.pdf</title>
+          </bookmark>
+          <bookmark href="https://old.reddit.com/r/sysadmin/comments/iyzazg/any_way_to_elevate_an_existing_command_prompt/" id="476">
+            <title>Any way to elevate an existing command prompt window to Admin? : sysadmin</title>
+          </bookmark>
+          <bookmark href="https://www.google.com/search?q=print+all+hostvars&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=print+all+hostvars&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2ODBqMGoxqAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="477">
+            <title>print all hostvars - Google Search</title>
+          </bookmark>
+          <bookmark href="chrome://bookmarks/" id="478">
+            <title>Bookmarks</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <folder id="129">
+        <title>clean</title>
+        <bookmark href="chrome://settings/content/all" id="283">
+          <title>Settings - All sites</title>
+        </bookmark>
+        <bookmark href="chrome://settings/clearBrowserData" id="284">
+          <title>Settings - Privacy and security</title>
+        </bookmark>
+      </folder>
+      <folder id="130">
+        <title>JOBs</title>
+        <bookmark href="https://www.linkedin.com/jobs/view/4152725923/?eBP=CwEAAAGVFAmcI2lJAgoAz5FH5tKPf2J3O62wTvIfgsrkksQW_0On8rW4Mm8CxuGlhW2k674aeZEsJZQEHchSURW7LnRxMqMICS3sGc5vQckVEa6xattRf5L1bLrV2tUoaqEqZ1sgPxu-rMcU4p3Cr643C_z-foTFYq0QrYPtlen0mtHBlNLrj5GEKbcfodC3g8ZMhX0cRfQ4I91SmiKQLeSlftQ4kbr-qU2K8OHvdcSpPRfPJsJK9w-vzVH4VBHvcB2mUl0EjnbwphvrithQQUVQbB3Hra5p1ryFgN_4vpc5ynI2wzKKvU-d9puLHote2yByFR53EZfle2ItZXHbO4Je93jqGxqBmuPeGSx6Z98gI0GRsnbL_J5fDW2X3VWcRZxExVKjzKZ36yuWQjLtnk-Z-Gw6amt3WfxC_zbBTrB6PlI9rqLcWggR6RraKonB4PCVi0huL8H_7e3YWfYzvpQKKSjW_RGvL0HA93maBLrLUaV9cwzqE8TTzJ1BykzBCqEg3G0j4rIgKLK0_A&amp;refId=476pNiBdJmFj7fNqBqM3Mw%3D%3D&amp;trackingId=ETXSCuGioMtdmGQRe1CJfw%3D%3D&amp;trk=flagship3_search_srp_jobs" id="291">
+          <title>(1) Sr. Engineer - Cloud (Remote, IND) | CrowdStrike | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://careers-apac-atlassian.icims.com/jobs/12738/principal-devops-engineer/job?iis=LinkedIn&amp;iisn=LinkedIn_Job_Ad&amp;mode=job" id="292">
+          <title>Atlassian Careers: Join the Team | Atlassian</title>
+        </bookmark>
+        <bookmark href="https://hasura.io/careers/?jobId=ej86FTjh08Nx" id="293">
+          <title>Work with us | Universal data access layer for next-gen apps and AI</title>
+        </bookmark>
+        <bookmark href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Remote/Senior-Software-Engineer---Build--Packaging-and-DevOps_JR1992143?source=jobboardlinkedin" id="294">
+          <title>CAREERS AT NVIDIA</title>
+        </bookmark>
+        <bookmark href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Configuration-Management-Engineer-SCM_JR1995790?source=jobboardlinkedin" id="295">
+          <title>CAREERS AT NVIDIA</title>
+        </bookmark>
+        <bookmark href="https://jobs.cisco.com/jobs/ProjectDetail/Software-Engineer-DevOps-On-Prem-Jenkins-Pipelines-Kubernetes-and-Automation-with-Python-8-Years/1433394?source=Cisco+Jobs+Career+Site&amp;tags=CDC+Browse+all+jobs+careers" id="296">
+          <title>Software Engineer - DevOps(On-Prem) - Jenkins Pipelines, Kubernetes and Automation with Python (8+ Years)</title>
+        </bookmark>
+        <bookmark href="https://jobs.cisco.com/jobs/ProjectDetail/Technical-Systems-Engineer-AI-NVIDIA-GPU-HPC-Clusters-Hybrid-Cloud-Virtualisation-and-Container-technologies-Python-GoLang/1430190?source=Cisco+Jobs+Career+Site&amp;tags=CDC+Browse+all+jobs+careers" id="297">
+          <title>Technical Systems Engineer - AI/NVIDIA GPU/HPC Clusters (Hybrid Cloud, Virtualisation and Container technologies) + Python/GoLang</title>
+        </bookmark>
+        <bookmark href="https://www.okta.com/company/careers/engineering/staff-site-reliability-engineer-6570944/?gh_src=7j0um41" id="298">
+          <title>Staff Site Reliability Engineer | Okta</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/jobs/view/4087802151/" id="299">
+          <title>DevOps - Senior DevOps Engineer | One97 Communications Limited | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/jobs/view/4151324932/" id="300">
+          <title>Build and Release Engineer, Software Engineering | HeadSpin | LinkedIn</title>
+        </bookmark>
+        <folder id="301">
+          <title>job homes</title>
+          <bookmark href="https://intel.wd1.myworkdayjobs.com/en-US/External/login" id="483">
+            <title>INTC</title>
+          </bookmark>
+          <bookmark href="https://jobs.cisco.com/jobs/Login" id="484">
+            <title>Cisco Jobs</title>
+          </bookmark>
+        </folder>
+        <bookmark href="https://headspin.bamboohr.com/careers/222" id="302">
+          <title>BambooHR</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/posts/gaurav-sharma-bb9b08163_staff-devops-engineer-activity-7307338832952078336-mHmt/?utm_source=share&amp;utm_medium=member_desktop&amp;rcm=ACoAAAGf-8kBrnFcWlQ05acrsyncXraVrpciZtw" id="303">
+          <title>LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.celigo.com/careers/staff-devops-engineer-3/" id="304">
+          <title>Staff DevOps Engineer</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/jobs/view/3966880894/" id="305">
+          <title>Principal DevOps Engineer | Atlassian | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://www.linkedin.com/jobs/view/4119635251/" id="306">
+          <title>Staff Software Engineer, Infrastructure - Developer Productivity | Coinbase | LinkedIn</title>
+        </bookmark>
+        <bookmark href="https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Configuration-Management-Engineer-SCM_JR1995790?source=jobboardlinkedin" id="307">
+          <title>CAREERS AT NVIDIA</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.wolframalpha.com/" id="131">
+        <title>W</title>
+      </bookmark>
+      <bookmark href="https://learn.microsoft.com/en-us/answers/questions/5585306/file-explorer-not-previewing-pdf-files-since-25h2?page=8#answers" id="132">
+        <title>File Explorer not previewing pdf files since 25H2 update - Microsoft Q&amp;A</title>
+      </bookmark>
+      <bookmark href="https://bngbirds.com/" id="133">
+        <title>BngBirds – Bangalore Birds</title>
+      </bookmark>
+      <folder id="134">
+        <title>slac</title>
+        <bookmark href="https://api.slack.com/methods/files.getUploadURLExternal" id="308">
+          <title>files.getUploadURLExternal method | Slack</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/methods/files.completeUploadExternal" id="309">
+          <title>files.completeUploadExternal method | Slack</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/messaging/files#uploading_files" id="310">
+          <title>Working with files | Slack</title>
+        </bookmark>
+        <bookmark href="https://stackoverflow.com/questions/78471354/slack-files-completeuploadexternal-no-uploading-files-to-the-slack" id="311">
+          <title>python - Slack files.completeUploadExternal no uploading files to the Slack - Stack Overflow</title>
+        </bookmark>
+        <bookmark href="https://forums.slackcommunity.com/s/question/0D5Hq00009o5bjzKAA/replacement-for-filesupload-sending-a-snippet-via-curl?language=en_US" id="312">
+          <title>Replacement for files.upload sending a snippet via curl | Slack Community</title>
+        </bookmark>
+        <bookmark href="https://stackoverflow.com/questions/79008872/correct-use-of-files-getuploadurlexternal-in-curl-command-line" id="313">
+          <title>rest - Correct use of files.getUploadURLExternal in Curl command line - Stack Overflow</title>
+        </bookmark>
+        <bookmark href="https://stackoverflow.com/questions/46770153/slack-upload-error-while-trying-to-upload-using-curl" id="314">
+          <title>Slack Upload : Error while trying to upload using Curl - Stack Overflow</title>
+        </bookmark>
+        <bookmark href="https://forums.slackcommunity.com/s/question/0D5Hq00009pjbwTKAQ/since-filesupload-is-being-deprecated-is-there-another-way-to-upload-files-to-slack-channels?language=en_US" id="315">
+          <title>Since files.upload is being deprecated, is there another way to upload files to Slack channels | Slack Community</title>
+        </bookmark>
+        <bookmark href="https://forums.slackcommunity.com/s/question/0D5Hq00009qRTQQKA4/going-from-fileupload-to-filegetuploadurlexternal-do-i-need-to-change-my-token?language=en_US" id="316">
+          <title>Going from file.upload to file.getUploadURLExternal, do i need to change my token? | Slack Community</title>
+        </bookmark>
+        <bookmark href="https://forums.slackcommunity.com/s/question/0D5Hq00009o5bjzKAA/replacement-for-filesupload-sending-a-snippet-via-curl?language=en_US" id="317">
+          <title>Replacement for files.upload sending a snippet via curl | Slack Community</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/concepts/token-types" id="318">
+          <title>Token types | Slack</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/apps" id="319">
+          <title>Slack API: Applications | Slack</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/apps/A07DABYG84X/general?" id="320">
+          <title>Slack API: Applications | Netskope Slack</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/quickstart" id="321">
+          <title>Quickstart | Slack</title>
+        </bookmark>
+        <bookmark href="https://api.slack.com/tutorials/tracks/posting-messages-with-curl" id="322">
+          <title>Posting messages using curl | Slack</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.thrillophilia.com/water-parks-in-bangalore" id="135">
+        <title>12 Water Parks in Bangalore: Get Upto 35% Off on Tickets</title>
+      </bookmark>
+      <folder id="136">
+        <title>strawberry</title>
+        <bookmark href="https://9gag.com/" id="323">
+          <title>9GAG - Best Funny Memes and Breaking News</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=bangalore+strawberry+picking&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=bangalore+strawberry+picking&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM2OTBqMGoxqAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8" id="324">
+          <title>bangalore strawberry picking - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.thebangaloreberrycompany.in/" id="325">
+          <title>Home | Berries</title>
+        </bookmark>
+        <bookmark href="https://wholesomefarms.in/#" id="326">
+          <title>Wholesome Strawberry Farms</title>
+        </bookmark>
+        <bookmark href="https://www.thebangaloreberrycompany.in/bookfarmvisit" id="327">
+          <title>Book Farm Visit | Berries</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/forum/travelogues/261912-strawberry-picking-near-bangalore-wholesome-farms-chikkaballapur.html" id="328">
+          <title>Strawberry Picking near Bangalore | Wholesome Farms, Chikkaballapur - Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.tejastravels.com/blog/article/strawberry-picking-in-bangalore" id="329">
+          <title>Strawberry Picking - 2 hours from Bangalore</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://old.reddit.com/r/bangalore/comments/1gmakyb/what_do_you_all_do_with_your_old_clothes/" id="137">
+        <title>What do you all do with your old clothes? : bangalore</title>
+      </bookmark>
+      <bookmark href="https://old.reddit.com/r/bangalore/comments/1im4y5c/what_do_bangaloreans_actually_do_on_weekends_to/" id="138">
+        <title>What do Bangaloreans actually do on weekends to relieve stress from work? : bangalore</title>
+      </bookmark>
+      <bookmark href="https://www.holidify.com/collections/places-to-visit-near-bangalore-under-100-kms" id="139">
+        <title>28 Places To Visit Near Bangalore Within 100 kms</title>
+      </bookmark>
+      <folder id="140">
+        <title>motorcycles</title>
+        <bookmark href="https://www.ridenrepair.com/" id="330">
+          <title>Ride N Repair - Service &amp; Repair at your Doorstep</title>
+        </bookmark>
+        <bookmark href="https://bikezo.in/" id="331">
+          <title>Doorstep bike service &amp; repair | Bangalore</title>
+        </bookmark>
+        <bookmark href="https://bikepromech.in/doorstep-bike-service-bangalore/" id="332">
+          <title>Best Doorstep bike service in Bangalore - Bikepromech</title>
+        </bookmark>
+        <bookmark href="https://readyassist.in/doorstep-bike-general-service.html" id="333">
+          <title>Doorstep Bike Service | Quick Bike Service at Home | General Bike Service | ReadyAssist</title>
+        </bookmark>
+        <bookmark href="https://www.spotmech.com/Bengaluru/bike-service/book" id="334">
+          <title>Best Bike Service &amp; repair in Bengaluru | Doorstep Bike Service in Bengaluru | Spotmech</title>
+        </bookmark>
+        <bookmark href="https://bromechanic.com/?v=c86ee0d9d7ed" id="335">
+          <title>Bro Mechanic - Doorstep bike service in Bengaluru</title>
+        </bookmark>
+        <bookmark href="https://www.apnamechanic.com/bikes/bangalore/" id="336">
+          <title>Doorstep Bike Service in Bangalore | Bike Repair - Apna Mechanic</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/indianbikes/comments/x4o7rs/bike_service_app_gomechanic_type/" id="337">
+          <title>Bike Service App (GoMechanic type) : indianbikes</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/place/Royal+Enfield+Service+Center+-+Teknik+Motorcycles/@12.9377601,77.6541333,14z/data=!4m10!1m2!2m1!1sRoyal+Enfield+service!3m6!1s0x3bae147fe2d217a9:0xbf9088cebba98b60!8m2!3d12.9249845!4d77.6528454!15sChVSb3lhbCBFbmZpZWxkIHNlcnZpY2UiA4gBAZIBFm1vdG9yY3ljbGVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11g192jcn7?entry=ttu&amp;g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" id="338">
+          <title>Royal Enfield Service Center - Teknik Motorcycles - Google Maps</title>
+        </bookmark>
+        <bookmark href="https://www.instagram.com/direct/t/107686590632176/" id="339">
+          <title>Inbox • Chats</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/place/Royal+Enfield+Service+Center+-+Silkboard+Motors/@12.9166702,77.6300294,14.83z/data=!4m14!1m7!3m6!1s0x3bae13cd2eb218e9:0xa8df21879eab4c07!2sRoyal+Enfield+Service+Center+-+Ridecraft+Ventures+Pvt+Ltd!8m2!3d12.9512187!4d77.7015449!16s%2Fg%2F11w1gqkyzd!3m5!1s0x3bae15849e8fc26b:0xce49c741fd6b1522!8m2!3d12.911231!4d77.625991!16s%2Fg%2F11k4k4dy5s?entry=ttu&amp;g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" id="340">
+          <title>Royal Enfield Service Center - Silkboard Motors - Google Maps</title>
+        </bookmark>
+        <bookmark href="https://www.royalenfield.com/in/en/locate-us/service-centres/" id="341">
+          <title>Royal Enfield Service Centres Near You | Royal Enfield India</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://old.reddit.com/r/redditdev/comments/m6m6x8/reddit_api_quickstart_guide/" id="141">
+        <title>Reddit API Quickstart Guide : redditdev</title>
+      </bookmark>
+      <bookmark href="https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example" id="142">
+        <title>OAuth2 Quick Start Example · reddit-archive/reddit Wiki · GitHub</title>
+      </bookmark>
+      <bookmark href="https://old.reddit.com/r/redditdev/comments/dx0hbo/ill_admit_it_im_stupid_how_do_i_do_the_oauth2/" id="143">
+        <title>I’ll admit it, I’m stupid, how do I do the OAuth2 authentication? : redditdev</title>
+      </bookmark>
+      <bookmark href="https://www.ivarch.com/programs/pv.shtml" id="144">
+        <title>ivarch.com: Pipe Viewer</title>
+      </bookmark>
+      <bookmark href="https://serverfault.com/questions/328153/is-there-a-binary-of-pipe-viewer-pv-for-windows" id="145">
+        <title>Is there a binary of Pipe Viewer (`pv`) for Windows? - Server Fault</title>
+      </bookmark>
+      <bookmark href="https://catonmat.net/unix-utilities-pipe-viewer" id="146">
+        <title>Pipe Viewer – A Unix Utility You Should Know About</title>
+      </bookmark>
+      <bookmark href="https://terminaltrove.com/atuin/" id="147">
+        <title>https://terminaltrove.com/atuin/</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=42492508" id="148">
+        <title>Ask HN: Programmers who don&apos;t use autocomplete/LSP, how do you do it? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://www.cnbc.com/2021/10/19/cv-job-recruiters-weigh-up-the-value-of-video-resumes.html" id="149">
+        <title>CV: Job recruiters weigh up the value of video resumes</title>
+      </bookmark>
+      <bookmark href="https://gist.github.com/romainl/56f0c28ef953ffc157f36cc495947ab3" id="150">
+        <title>Instant grep + quickfix · GitHub</title>
+      </bookmark>
+      <folder id="151">
+        <title>reddit</title>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1huiqi4/reliable_way_to_sell_stuff_in_bangalore/" id="342">
+          <title>Reliable way to sell stuff in bangalore : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/india/comments/1hz3hqc/how_do_i_skip_whatever_airtel_is_trying_to_tell/?" id="343">
+          <title>How do I skip whatever Airtel is trying to tell me every time I make a call? : india</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/login/" id="344">
+          <title>Reddit - Dive into anything</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/india/comments/1hqyy4x/ask_india_thread/m6mfpe7/?cache-bust=1736626124340" id="345">
+          <title>Ask India Thread : india</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://grafana.com/blog/2024/10/08/inside-promql-a-closer-look-at-the-mechanics-of-a-prometheus-query/" id="152">
+        <title>Inside PromQL: A closer look at the mechanics of a Prometheus query | Grafana Labs</title>
+      </bookmark>
+      <bookmark href="https://x.com/ThePadrepr/status/1889928241080836483" id="153">
+        <title>𝐏𝐚𝐝𝐫𝐞 🧸✰ on X: &quot;This guy has been known for revealing magicians secrets and here are 10 of his best videos 😂❤️ - Thread 📥 1. this is insane 😂 https://t.co/r0UJvU2DPY&quot; / X</title>
+      </bookmark>
+      <folder id="154">
+        <title>carwash</title>
+        <bookmark href="https://gobumpr.com/bangalore/offers/bangalore-car-interior-detailing-999-2017" id="346">
+          <title>Car Interior Detailing @ 999 in Bangalore</title>
+        </bookmark>
+        <bookmark href="https://www.karspa.in/Bike-Care-Services.html" id="347">
+          <title>KarSpa.in - best bike washing, detailing service in Bangalore</title>
+        </bookmark>
+        <bookmark href="https://hoora.in/car-wash-bengaluru/" id="348">
+          <title>Car Wash at Home in Bangalore | Starting @99.</title>
+        </bookmark>
+        <bookmark href="https://www.driveu.in/car-care/product-category/interior/" id="349">
+          <title>Interior – DriveU Doorstep Car Care</title>
+        </bookmark>
+        <bookmark href="https://gomechanic.in/cartPage" id="350">
+          <title>Best Ford Figo Aspire Petrol Car Cleaning Service in Bangalore - GoMechanic</title>
+        </bookmark>
+        <bookmark href="https://www.apnamechanic.com/bikes/bangalore/" id="351">
+          <title>Doorstep Bike Service in Bangalore | Bike Repair - Apna Mechanic</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=bike+service+door+step&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=bike+service+door+step&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI2NDhqMGoxqAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8" id="352">
+          <title>bike service door step - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.ridenrepair.com/" id="353">
+          <title>Ride N Repair - Car and Bike Service and Repair at your Doorstep</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Grand_Theft_Auto:_San_Andreas" id="354">
+          <title>Grand Theft Auto: San Andreas - Wikipedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_IV" id="355">
+          <title>Grand Theft Auto IV - Wikipedia</title>
+        </bookmark>
+        <bookmark href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_V" id="356">
+          <title>Grand Theft Auto V - Wikipedia</title>
+        </bookmark>
+        <bookmark href="https://gomechanic.in/order/20250125911760859" id="357">
+          <title>Tracking Link</title>
+        </bookmark>
+      </folder>
+      <bookmark href="javascript:void [&quot;contextmenu&quot;,&quot;copy&quot;,&quot;paste&quot;,&quot;selectstart&quot;].map(e=&gt;document.addEventListener(e,e=&gt;e.stopPropagation(),true))" id="155">
+        <title>paste</title>
+      </bookmark>
+      <bookmark href="https://ethercalc.net/v8slroezfh2v" id="156">
+        <title>v8slroezfh2v – EtherCalc</title>
+      </bookmark>
+      <bookmark href="https://ethercalc.net/1cs9jqrttiou" id="157">
+        <title>1cs9jqrttiou – EtherCalc</title>
+      </bookmark>
+      <folder id="158">
+        <title>mangalore</title>
+        <bookmark href="https://app.todoist.com/app/task/aaaaaaa-6XwJmVXWcQ64mQGg" id="358">
+          <title>AA -- Mangalore trip – Todoist</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=Golden+Nest+Home+Beach+Resort%2C+Kapu%2C+Udupi&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=Golden+Nest+Home+Beach+Resort%2C+Kapu%2C+Udupi&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE5N2owajGoAgCwAgE&amp;sourceid=chrome&amp;ie=UTF-8" id="359">
+          <title>Golden Nest Home Beach Resort, Kapu, Udupi - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=The+ocean+beach+resort&amp;sca_esv=62f82ff636d943ce&amp;rlz=1C1GCEA_enIN1120IN1120&amp;ei=-e8ZaImrAaGJjuMPpcDp8Qg&amp;hotel_occupancy=&amp;ved=0ahUKEwjJi8av3I6NAxWhhGMGHSVgOo4Q4dUDCBA&amp;uact=5&amp;oq=The+ocean+beach+resort&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiFlRoZSBvY2VhbiBiZWFjaCByZXNvcnQyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyChAAGLADGNYEGEcyDhAAGIAEGLADGJIDGIoFMhkQLhiABBiwAxhDGMcBGMgDGIoFGK8B2AECMh8QLhiABBiwAxhDGMcBGJgFGMgDGIoFGJoFGK8B2AECMh8QLhiABBiwAxhDGMcBGJgFGMgDGIoFGJoFGK8B2AECSJMPUABY1w1wAXgAkAECmAGHAqABuCCqAQcwLjEwLjEwuAEDyAEA-AEBmAISoALLHcICFhAuGIAEGEMYxwEYmAUYigUYmgUYrwHCAhAQLhiABBhDGMcBGIoFGK8BwgIKEAAYgAQYQxiKBcICEBAuGIAEGNEDGEMYxwEYigXCAgsQLhiABBjRAxjHAcICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAiUQLhiABBhDGMcBGJgFGIoFGJoFGK8BGJcFGNwEGN4EGOAE2AEBwgIZEC4YgAQYQxjHARiYBRiKBRiaBRieBRivAcICFhAuGIAEGEMYxwEYmAUYmQUYigUYrwHCAggQLhiABBixA8ICDhAuGIAEGNEDGOcEGMcBwgILEC4YgAQYsQMYgwHCAhkQLhiABBhDGMcBGJgFGIoFGJoFGI4FGK8BwgIIEAAYgAQY5wTCAgsQLhiABBixAxiKBcICERAuGIAEGMcBGJgFGJkFGK8BwgIUEC4YgAQYxwEYmAUYmQUYngUYrwHCAgUQABiABMICERAuGIAEGMcBGJgFGJoFGK8BwgILEC4YgAQYxwEYrwHCAgUQLhiABMICExAuGIAEGMcBGJgFGJkFGAoYrwHCAgYQABgWGB6YAwCIBgGQBgy6BgYIARABGBS6BgQIAhgIkgcGMS43LjEwoAfx_wKyBwYwLjcuMTC4B8Id&amp;sclient=gws-wiz-serp" id="360">
+          <title>The ocean beach resort - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=Paradise+Isle+Beach+Resort&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=Paradise+Isle+Beach+Resort&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NWowajGoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8" id="361">
+          <title>Paradise Isle Beach Resort - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=paradise+lagoon&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=paradise+lagoon&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI0OTBqMGoxqAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8" id="362">
+          <title>paradise lagoon - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=Bluewaves+Seafront+Cottage+malpe+beach&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=Bluewaves+Seafront+Cottage+malpe+beach&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzE3NmowajGoAgCwAgA&amp;sourceid=chrome&amp;ie=UTF-8" id="363">
+          <title>Bluewaves Seafront Cottage malpe beach - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=namastehomestayresorts&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=namastehomestayresorts&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzIxNmowajmoAgCwAgE&amp;sourceid=chrome&amp;ie=UTF-8" id="364">
+          <title>namastehomestayresorts - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.namastehomestayresorts.com/contact" id="365">
+          <title>Namaste Homestay Beach &amp; Resorts</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=four+shore+beach+homestay&amp;sca_esv=35dc981465dfcda7&amp;rlz=1C1GCEA_enIN1120IN1120&amp;ei=QEcaaKnbB4iIvr0P-9XFuQw&amp;ved=0ahUKEwip-8jNr4-NAxUIhK8BHftqMccQ4dUDCBA&amp;uact=5&amp;oq=four+shore+beach+homestay&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiGWZvdXIgc2hvcmUgYmVhY2ggaG9tZXN0YXkyBhAAGA0YHjILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyCBAAGIAEGKIEMgUQABjvBTIIEAAYgAQYogQyCBAAGIAEGKIESI4UUJAFWJITcAN4AJABAJgBpgGgAZcbqgEEMC4yNbgBA8gBAPgBAZgCHKACgx3CAg4QLhiABBiwAxjHARivAcICCBAAGIAEGLADwgIHEAAYsAMYHsICCBAAGLADGO8FwgIKEAAYgAQYQxiKBcICCxAAGIAEGJECGIoFwgIREC4YgAQYkQIYxwEYigUYrwHCAg4QLhiABBixAxjRAxjHAcICCxAAGIAEGLEDGIMBwgIREC4YgAQYsQMY0QMYgwEYxwHCAggQABiABBixA8ICFBAuGIAEGMcBGJgFGJkFGJ4FGK8BwgILEC4YgAQY0QMYxwHCAhQQLhiABBixAxjRAxiDARjHARjJA8ICGhAuGIAEGLEDGMcBGJgFGJkFGIoFGJ4FGK8BwgILEAAYgAQYkgMYigXCAgUQABiABMICCBAuGIAEGLEDwgILEC4YgAQYxwEYrwHCAhcQLhiABBixAxjHARiYBRiZBRieBRivAcICCxAAGIAEGLEDGIoFwgIOEC4YgAQYkgMYxwEYrwHCAhQQLhiABBjHARiYBRiaBRieBRivAcICDhAuGIAEGLEDGIMBGIoFwgIgEC4YgAQYkQIYxwEYigUYrwEYlwUY3AQY3gQY4ATYAQHCAgUQLhiABMICBxAAGIAEGArCAgcQLhiABBgKwgIjEC4YgAQYlwUY3AQY3gQY4AQY9AMY8QMY9QMY9gMY9wPYAQHCAgYQABgWGB7CAgcQIRigARgKwgIHEC4YgAQYDcICDRAuGIAEGMcBGA0YrwHCAgcQABiABBgNwgIQEC4YgAQYxwEYmAUYDRivAcICFhAuGIAEGA0YlwUY3AQY3gQY4ATYAQHCAhwQLhiABBjHARgNGK8BGJcFGNwEGN4EGOAE2AEBwgIIEAAYCBgNGB6YAwCIBgGQBgW6BgYIARABGBSSBwQzLjI1oAfIzwKyBwQwLjI1uAfyHA&amp;sclient=gws-wiz-serp" id="366">
+          <title>four shore beach homestay - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.foreshorebeachholidayhomemalpe.com/" id="367">
+          <title>Foreshore Beach Holiday Home Malpe . Best Beachside Home Stay, Udupi</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=udupi+sightseeing+cab&amp;sca_esv=35dc981465dfcda7&amp;rlz=1C1GCEA_enIN1120IN1120&amp;ei=tEcaaK38OuHc2roPlMijmQQ&amp;ved=0ahUKEwitpqSFsI-NAxVhrlYBHRTkKEMQ4dUDCBA&amp;uact=5&amp;oq=udupi+sightseeing+cab&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiFXVkdXBpIHNpZ2h0c2VlaW5nIGNhYjILEAAYgAQYkQIYigUyCxAAGIAEGJECGIoFMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMgsQABiABBiGAxiKBTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogRIwDpQjwlYyC1wCHgBkAEAmAGTAaABlxmqAQQ0LjI0uAEDyAEA-AEBmAIkoAKQG8ICChAAGLADGNYEGEfCAgsQLhiABBiRAhiKBcICCBAAGIAEGLEDwgILEAAYgAQYsQMYgwHCAgsQLhiABBixAxiDAcICChAAGIAEGEMYigXCAg4QLhiABBixAxiDARiKBcICBRAAGIAEwgIaEC4YgAQYkQIYigUYlwUY3AQY3gQY4ATYAQHCAg4QLhiABBiRAhixAxiKBcICBRAuGIAEwgINEC4YgAQYsQMYQxiKBcICDRAAGIAEGLEDGEMYigXCAggQLhiABBixA8ICHRAuGIAEGJECGLEDGIoFGJcFGNwEGN4EGOAE2AEBwgIOEAAYgAQYkQIYsQMYigXCAhEQLhiABBiRAhjHARiKBRivAcICBxAAGIAEGArCAgUQIRigAcICBxAhGKABGArCAgcQABiABBgNwgIGEAAYDRgewgIIEAAYBRgNGB7CAgYQABgWGB7CAggQABgWGAoYHpgDAIgGAZAGCLoGBggBEAEYFJIHBDkuMjegB7vKAbIHBDEuMje4B-Ma&amp;sclient=gws-wiz-serp" id="368">
+          <title>udupi sightseeing cab - Google Search</title>
+        </bookmark>
+        <bookmark href="https://udupitaxi.com/about-us" id="369">
+          <title>about udupi taxi</title>
+        </bookmark>
+        <bookmark href="https://katyayanitravels.com/udupi-mangalore-beach-tour/" id="370">
+          <title>Udupi Mangalore Beach Tour - Katyayani Travels</title>
+        </bookmark>
+        <bookmark href="https://shruthinitourist.com/" id="371">
+          <title>Taxi Services In Udupi And Manipal - Shruthini Tourist</title>
+        </bookmark>
+        <bookmark href="https://www.facebook.com/groups/weekends.longweekendTrips/" id="372">
+          <title>(6) Weekend Trips From Bengaluru | Facebook</title>
+        </bookmark>
+        <bookmark href="https://oneway.cab/mangaluru/udupi/fare" id="373">
+          <title>Mangaluru To Udupi Cab @ ₹1849 | Get Up to ₹500 Off</title>
+        </bookmark>
+        <bookmark href="https://www.booking.com/searchresults.html?ss=Namaste+Homestay+and+Beach+Resort+%28Beach+Front%29%2C+light+house+Road%2C+near+Polipu+PU+College%2C+Kaup%2C+Polipu%2C+Udupi%2C+Karnataka%2C+India&amp;ssne=Mangalore&amp;ssne_untouched=Mangalore&amp;efdco=1&amp;label=gen173nr-1FCAEoggI46AdIM1gEaGyIAQGYATG4ARfIAQzYAQHoAQH4AQKIAgGoAgO4AprP8cAGwAIB0gIkNjBiYmZiNTQtODQ2Yi00YzM3LTgxY2YtMDY0OGQwZTUxMDZj2AIF4AIB&amp;sid=5c51e31d0a390ae00dafa65829ad7c80&amp;aid=304142&amp;lang=en-us&amp;sb=1&amp;src_elem=sb&amp;src=index&amp;dest_id=ChIJ5STFMgCxvDsRMX6rPonSNAI&amp;dest_type=latlong&amp;place_id=ChIJ5STFMgCxvDsRMX6rPonSNAI&amp;latitude=13.2337505&amp;longitude=74.7360336&amp;ac_position=1&amp;ac_click_type=g&amp;ac_langcode=xu&amp;ac_suggestion_list_length=5&amp;search_selected=true&amp;search_pageview_id=4f243b31db0b02bd&amp;ac_meta=KAIyAnh1Wg1lc3RhYmxpc2htZW50&amp;checkin=2025-05-20&amp;checkout=2025-05-23&amp;group_adults=3&amp;no_rooms=1&amp;group_children=1&amp;age=10" id="374">
+          <title>Booking.com: Search results: Namaste Homestay and Beach Resort (Beach Front), light house Road, near Polipu PU College, Kaup, Polipu, Udupi, Karnataka, India. Book your hotel now!</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/place/Namaste+Homestay+and+Beach+Resort+(Beach+Front)/@13.2798368,74.612218,10.36z/data=!4m9!3m8!1s0x3bbcb10032c524e5:0x234d2893eab7e31!5m2!4m1!1i2!8m2!3d13.2337505!4d74.7360336!16s%2Fg%2F11w42qrt7l?entry=ttu&amp;g_ep=EgoyMDI1MDUwNS4wIKXMDSoASAFQAw%3D%3D" id="375">
+          <title>Namaste Homestay and Beach Resort (Beach Front) - Google Maps</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/maps/place/Foreshore+Beach+Holiday+Home+Malpe/@13.3702214,74.6976746,15z/data=!4m15!1m8!3m7!1s0x3bbcbde19300032b:0x19c06528ba83aac9!2sForeshore+Beach+Holiday+Home+Malpe!8m2!3d13.3702638!4d74.6979873!10e5!16s%2Fg%2F11rmg69td9!3m5!1s0x3bbcbde19300032b:0x19c06528ba83aac9!8m2!3d13.3702638!4d74.6979873!16s%2Fg%2F11rmg69td9?entry=ttu&amp;g_ep=EgoyMDI1MDUwNS4wIKXMDSoASAFQAw%3D%3D" id="376">
+          <title>Foreshore Beach Holiday Home Malpe - Google Maps</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.youtube.com/watch?v=cMhKaTx2bE8&amp;t=247s&amp;ab_channel=TekSyndicate" id="285">
+        <title>Bring the Windows 10 Taskbar &amp; System Tray BACK in Windows 11 24H2 - YouTube</title>
+      </bookmark>
+      <bookmark href="https://superuser.com/questions/1824742/how-to-completely-remove-any-mention-of-recommended-on-start-space-of-windows" id="286">
+        <title>How to completely remove any mention of Recommended on Start &quot;space&quot; of Windows 11 - Super User</title>
+      </bookmark>
+      <bookmark href="https://troveexperiences.com/collections/upcoming/products/learn-the-art-of-magic-in-bangalore" id="287">
+        <title>Trove Experiences | The Art of Magic Experience Bangalore</title>
+      </bookmark>
+      <bookmark href="https://github.com/valinet/ExplorerPatcher/wiki/ExplorerPatcher&apos;s-taskbar-implementation#%EF%B8%8F-warning---read-thoroughly-before-using" id="288">
+        <title>ExplorerPatcher&apos;s taskbar implementation · valinet/ExplorerPatcher Wiki · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/valinet/explorerpatcher/releases" id="289">
+        <title>Releases · valinet/ExplorerPatcher</title>
+      </bookmark>
+      <folder id="290">
+        <title>pants</title>
+        <bookmark href="https://xyxxcrew.com/products/mens-rove-cotton-rich-ripstop-cargo-pants-onyx-black" id="479">
+          <title>Rove Relaxed Fit Ripstop Cargo Pants - Onyx Black – XYXX Apparels</title>
+        </bookmark>
+        <bookmark href="https://thebearhouse.com/collections/cargo/products/sanad" id="480">
+          <title>Shop Dark Grey Solid Baggy Fit Stylish Corduroy Cargo Pant Online – bearhouseindia</title>
+        </bookmark>
+        <bookmark href="https://www.beyoung.in/plain-t-shirt-combo-pick-any-3" id="481">
+          <title>Shop From Pick Any 3 Color of Plain T-shirt Online at Just Rs.899</title>
+        </bookmark>
+        <bookmark href="https://pantproject.com/?QNConfigId=nzvBgVjyy&amp;QNTabId=navigation&amp;QNCategoryId=tUV38D90f&amp;QNProductCategoryId=tUV38D90f&amp;QNProductId=8073717350587&amp;QNVariantId=46627098099899" id="482">
+          <title>The Pant Project - Custom Made Pants &amp; Ready to wear for Men &amp; Women</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="99">
+      <title>TomMontalk</title>
+      <bookmark href="https://x.com/TomMontalk/status/1961882356207284621" id="159">
+        <title>Tom (montalk.net) on X: &quot;@CanuckCity05 @completion5112 According to NDE research &amp;amp; occult/esoteric literature, after death there’s a period of seconds to days where a person is outside their body but still tethered to spacetime, in an etheric state. During that time, there’s a risk they can become earthbound. One way this happens&quot; / X</title>
+      </bookmark>
+      <bookmark href="https://x.com/TomMontalk/status/1958987234788425899" id="160">
+        <title>X</title>
+      </bookmark>
+      <bookmark href="https://x.com/TomMontalk/status/1958995912770167157" id="161">
+        <title>x.com/TomMontalk/status/1958995912770167157</title>
+      </bookmark>
+      <bookmark href="https://x.com/TomMontalk/status/1959008381554794871" id="162">
+        <title>Tom (montalk.net) on X: &quot;@Ragnarly @gangatoday1 @OakDraiocht @gaiagurl1111 @digijordan There are an estimated 1000+ Earth-like planets within 100 light-years. But who knows what’s going on there. We only have rumors, like farm planets where humans are raised as food, others where they’ve beaten back predatory NHIs and are independent, or planets with nonhuman&quot; / X</title>
+      </bookmark>
+      <bookmark href="https://x.com/TomMontalk" id="163">
+        <title>Tom (montalk.net) (@TomMontalk) / X</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=how+senior+is+a+partner+in+a+law+firm&amp;rlz=1C1GCEA_enIN1120IN1120&amp;oq=how+senior+is+a+partner+in+a+law+firm+&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMwNjZqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="164">
+        <title>how senior is a partner in a law firm - Google Search</title>
+      </bookmark>
+    </folder>
+    <folder id="100">
+      <title>2025-01-08-OpenTabs</title>
+      <bookmark href="chrome://whats-new/" id="165">
+        <title>What&apos;s New</title>
+      </bookmark>
+      <folder id="166">
+        <title>JIRA</title>
+        <bookmark href="https://developer.atlassian.com/server/jira/platform/rest/v11000/intro/#gettingstarted" id="377">
+          <title>The Jira Data Center REST API</title>
+        </bookmark>
+        <bookmark href="https://confluence.atlassian.com/adminjiraserver/jira-oauth-2-0-provider-api-1115659070.html" id="378">
+          <title>Jira OAuth 2.0 provider API | Administering Jira applications Data Center 11.1 | Atlassian Documentation</title>
+        </bookmark>
+        <bookmark href="https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/#editing-an-issue-examples" id="379">
+          <title>Jira REST API examples</title>
+        </bookmark>
+        <bookmark href="https://confluence.atlassian.com/enterprise/using-personal-access-tokens-1026032365.html" id="380">
+          <title>Using Personal Access Tokens | Atlassian Support | Atlassian Documentation</title>
+        </bookmark>
+        <bookmark href="https://developer.atlassian.com/server/jira/platform/jira-rest-api-examples/#creating-an-issue-examples" id="381">
+          <title>Jira REST API examples</title>
+        </bookmark>
+        <bookmark href="https://docs.atlassian.com/software/jira/docs/api/REST/8.20.14/#api/2/issue-assign" id="382">
+          <title>Jira 8.20.14</title>
+        </bookmark>
+      </folder>
+      <folder id="167">
+        <title>HN</title>
+        <bookmark href="https://news.ycombinator.com/news?p=9" id="383">
+          <title>Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45358980" id="384">
+          <title>Yt-dlp: Upcoming new requirements for YouTube downloads | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45359378" id="385">
+          <title>US airlines are pushing to remove protections for passengers and add more fees | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45358433" id="386">
+          <title>My game&apos;s server is blocked in Spain whenever there&apos;s a football match on | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45354314" id="387">
+          <title>Top Programming Languages 2025 | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45355965" id="388">
+          <title>New study shows plants and animals emit a visible light that expires at death | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45361434" id="389">
+          <title>Disney is raising the price of Disney+ and Hulu | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45361268" id="390">
+          <title>Show HN: Dayflow – A git log for your day | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45348495" id="391">
+          <title>Always Invite Anna | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45347043" id="392">
+          <title>Restrictions on house sharing by unrelated roommates | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45343108" id="393">
+          <title>Delete FROM users WHERE location = &apos;Iran&apos;; | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45342943" id="394">
+          <title>Zoxide: A Better CD Command | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45330736" id="395">
+          <title>Xcode Is the Worst Piece of Professional Software I Have Ever Used | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45328247" id="396">
+          <title>How I, a non-developer, read the tutorial you, a developer, wrote for me | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45335474" id="397">
+          <title>OpenAI and Nvidia announce partnership to deploy 10GW of Nvidia systems | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45332196" id="398">
+          <title>Is a movie prop the ultimate laptop bag? | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=45330378" id="399">
+          <title>You did this with an AI and you do not understand what you&apos;re doing here | Hacker News</title>
+        </bookmark>
+      </folder>
+      <bookmark href="chrome://newtab/" id="168">
+        <title>New Tab</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/maps/place/Skylit+Rooftop+Dining/@12.9233509,77.6297474,13z/data=!4m10!1m2!2m1!1sbuffet+restaurant!3m6!1s0x3bae1375c4eeaad3:0xfe382bc558ba0b92!8m2!3d12.923375!4d77.671688!15sChFidWZmZXQgcmVzdGF1cmFudFoTIhFidWZmZXQgcmVzdGF1cmFudJIBEWJ1ZmZldF9yZXN0YXVyYW50qgFQEAEqFSIRYnVmZmV0IHJlc3RhdXJhbnQoADIeEAEiGudNJG_4JzECAqYcX_AFPHHGAm4Y6W52hzs5MhUQAiIRYnVmZmV0IHJlc3RhdXJhbnTgAQA!16s%2Fg%2F11zg6lq1d?entry=ttu&amp;g_ep=EgoyMDI1MTEyMy4xIKXMDSoASAFQAw%3D%3D" id="169">
+        <title>Google Maps</title>
+      </bookmark>
+      <folder id="170">
+        <title>yercaud</title>
+        <bookmark href="https://www.agoda.com/the-pagodaa-x-forest-view-resorts-and-spa/hotel/all/yercaud-in.html?countryId=35&amp;finalPriceView=1&amp;isShowMobileAppPrice=false&amp;cid=1917614&amp;numberOfBedrooms=&amp;familyMode=false&amp;adults=2&amp;children=1&amp;rooms=1&amp;maxRooms=0&amp;isCalendarCallout=false&amp;childAges=11&amp;numberOfGuest=0&amp;missingChildAges=false&amp;travellerType=2&amp;showReviewSubmissionEntry=false&amp;currencyCode=INR&amp;isFreeOccSearch=false&amp;los=2&amp;searchrequestid=93eddf05-dc82-40cc-8ca8-6f70eb9285f0&amp;ds=MmSpgbA%2BGThsd%2FN1&amp;checkin=2025-10-23" id="400">
+          <title>agoda.com/the-pagodaa-x-forest-view-resorts-and-spa/hotel/all/yercaud-in.html?countryId=35&amp;finalPriceView=1&amp;isShowMobileAppPrice=false&amp;cid=1917614&amp;numberOfBedrooms=&amp;familyMode=false&amp;adults=2&amp;children=1&amp;rooms=1&amp;maxRooms=0&amp;isCalendarCallout=false&amp;childAges=11&amp;numberOfGuest=0&amp;missingChildAges=false&amp;travellerType=2&amp;showReviewSubmissionEntry=false&amp;currencyCode=INR&amp;isFreeOccSearch=false&amp;los=2&amp;searchrequestid=93eddf05-dc82-40cc-8ca8-6f70eb9285f0&amp;ds=MmSpgbA%2BGThsd%2FN1&amp;checkin=2025-10-23</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/forum/travelogues/259676-my-travel-diary-exploring-yercaud-jewel-south.html" id="401">
+          <title>My Travel Diary: Exploring Yercaud, the Jewel of the South - Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/forum/travelogues/289452-drive-yercaud-my-f30.html" id="402">
+          <title>Drive to Yercaud in my F30 - Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/news/drive-yercaud-my-bmw-320d-satisfying-500-km-road-trip" id="403">
+          <title>Drive to Yercaud in my BMW 320d: A satisfying 500 km road trip | Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/forum/travelogues/253390-hummer-s-travel-weekend-shevaroy-hills-yercaud.html" id="404">
+          <title>Hummer’s Travel: A weekend at Shevaroy Hills, Yercaud - Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/forum/travelogues/246842-just-time-short-trip-family-yercaud-my-vw-taigun.html" id="405">
+          <title>A just-in-time short trip with family to Yercaud, in my VW Taigun - Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.team-bhp.com/forum/travelogues/179204-wanderlust-traveler-bangalore-yercaud.html" id="406">
+          <title>Wanderlust Traveler: Bangalore to Yercaud - Team-BHP</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/travel/search?q=Summer%20House%20Resort&amp;g2lb=4965990%2C72317059%2C72414906%2C72471280%2C72472051%2C72485658%2C72560029%2C72573224%2C72616120%2C72647020%2C72686036%2C72803964%2C72882230%2C72958624%2C72959983%2C73053698%2C73059275%2C73064764%2C73107089&amp;hl=en-IN&amp;gl=in&amp;ssta=1&amp;ts=CAEaRwopEicyJTB4M2JhYmY0MmNmZTEzOGJkNToweDc4ZGQ2MjQwMDk2ZTc4ODQSGhIUCgcI6Q8QChgVEgcI6Q8QChgWGAEyAhAA&amp;qs=CAEyE0Nnb0loUEc1eTRESTJPNTRFQUU4AkIJCYR4bglAYt14QgkJhHhuCUBi3Xg&amp;ap=KigKEgmf-plaSYsnQBHJpL2tL41TQBISCU_P3oR8jydAEcmkvdmZjVNAugEHcmV2aWV3cw&amp;ictx=111&amp;ved=0CAAQ5JsGahcKEwjYtPrI2dWQAxUAAAAAHQAAAAAQBA" id="407">
+          <title>Summer House Resort – Google hotels</title>
+        </bookmark>
+        <bookmark href="https://www.sterlingholidays.com/destination/yercaud" id="408">
+          <title>Yercaud - Best Time to Visit | Places To Visit - Sterling Resorts</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.google.com/search?q=Supreme+Technologies+bangalore&amp;sca_esv=47dab9ba39490397&amp;rlz=1C1GCEA_enIN1120IN1120&amp;ei=aSf_aLnZKJCx4-EP5KnByQs&amp;ved=0ahUKEwj5sZC59cOQAxWQ2DgGHeRUMLkQ4dUDCBA&amp;uact=5&amp;oq=Supreme+Technologies+bangalore&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiHlN1cHJlbWUgVGVjaG5vbG9naWVzIGJhbmdhbG9yZTILEC4YgAQYxwEYrwEyAhAmMgIQJjICECYyAhAmMgsQABiABBiGAxiKBTIIEAAYgAQYogQyCBAAGIAEGKIEMggQABiABBiiBDIIEAAYgAQYogQyGhAuGIAEGMcBGK8BGJcFGNwEGN4EGOAE2AEBSLsJUPwDWIcJcAF4AZABAJgB3gGgAd8IqgEFMC44LjG4AQPIAQD4AQGYAgqgAo4JwgIKEAAYsAMY1gQYR8ICDRAAGIAEGLADGEMYigXCAhAQLhiABBhDGMcBGIoFGK8BwgIFEAAYgATCAhMQLhiABBhDGMcBGIoFGI4FGK8BwgIKEAAYgAQYQxiKBcICERAuGIAEGJECGMcBGIoFGK8BwgIGEAAYFhgewgIIEAAYFhgKGB7CAiAQLhiABBiRAhjHARiKBRivARiXBRjcBBjeBBjgBNgBAZgDAIgGAZAGCroGBggBEAEYFJIHBTEuOC4xoAfRerIHBTAuOC4xuAeJCcIHBTAuMi44yAcl&amp;sclient=gws-wiz-serp" id="171">
+        <title>Supreme Technologies bangalore - Google Search</title>
+      </bookmark>
+      <bookmark href="https://old.reddit.com/r/bangalore/comments/1orknuo/my_recent_ekhata_experience_in_bengaluru_was_pure/" id="172">
+        <title>My recent e-Khata experience in Bengaluru was pure hell!! corruption and chaos all over : bangalore</title>
+      </bookmark>
+      <bookmark href="https://gist.github.com/mattroz/e3cf49ce41da355ba245ddd7f33e681d" id="173">
+        <title>Instructions for creating a doc and inserting some text · GitHub</title>
+      </bookmark>
+      <bookmark href="https://github.com/valinet/ExplorerPatcher/discussions/4764" id="174">
+        <title>github.com</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=46160315" id="175">
+        <title>Netflix to Acquire Warner Bros | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=46160773" id="176">
+        <title>Most technical problems are people problems | Hacker News</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="35">
+    <title>still-to-organize-002</title>
+    <folder id="101">
+      <title>Favorites bar</title>
+      <bookmark href="https://docs.google.com/document/d/1a9S9Zhgo62MEgRN5eJ6e1JhgmB9GirfYLoHkSsBiqwg/preview?tab=t.0#heading=h.f1exn29ef7m8" id="177">
+        <title>EDGE</title>
+      </bookmark>
+      <bookmark href="https://old.reddit.com/r/mkindia/comments/1cf2yyb/wts_keychron_k2v2_red_switch_white_backlight/" id="178">
+        <title>[WTS] keychron k2-v2 (red switch) (white backlight) Unopened : mkindia</title>
+      </bookmark>
+      <bookmark href="https://ethercalc.net/9qf7je6vpzkj" id="179">
+        <title>DISK SPACES</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/509690/how-can-you-list-the-matches-of-vims-search" id="180">
+        <title>VIM search list </title>
+      </bookmark>
+      <bookmark href="https://old.reddit.com/r/linux/comments/oljiov/what_are_your_favourite_minimalist_file_managers/" id="181">
+        <title>File managers</title>
+      </bookmark>
+      <bookmark href="javascript: (() =&gt; { Array.from(document.getElementsByTagName(&quot;relative-time&quot;)).forEach((d) =&gt; d.shadowRoot.textContent = d.title) })();" id="182">
+        <title>Github Relative Times</title>
+      </bookmark>
+      <bookmark href="https://www.pfu.ricoh.com/imaging/downloads/manual/basic/win/en/topics/index.html" id="183">
+        <title>ScanSnap Basic Operation Guide (Windows)</title>
+      </bookmark>
+      <bookmark href="https://anotepad.com/notes/mr7dkrhy" id="184">
+        <title>office work - Online Notepad</title>
+      </bookmark>
+      <bookmark href="https://docs.google.com/document/d/1PJwi1NFz8oYO54G1RItswudQsujE2NM85ORRPaHRLlI/edit" id="185">
+        <title>TODO - Google Docs</title>
+      </bookmark>
+      <folder id="186">
+        <title>NetskopeJobs</title>
+        <bookmark href="https://netskope.greenhouse.io/internal_job_board/applications/2368371" id="409">
+          <title>Job Application for Staff Engineer, Engineering Productivity DevOps at Netskope Internal</title>
+        </bookmark>
+        <bookmark href="https://netskope.greenhouse.io/internal_job_board/applications/6501592" id="410">
+          <title>Job Application for Sr. Staff Engineer, NPA DevOps at Netskope Internal</title>
+        </bookmark>
+        <bookmark href="https://netskope.greenhouse.io/internal_job_board/applications/6453909" id="411">
+          <title>Job Application for Staff Engineer DevOps, DLP at Netskope Internal</title>
+        </bookmark>
+        <bookmark href="https://netskope.greenhouse.io/internal_job_board?offices%5B%5D=81128" id="412">
+          <title>Internal Job Board | Greenhouse Recruiting</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://www.msn.com/en-in/money/news/salesforce-lays-off-4-000-employees-ceo-marc-benioff-explains-why-i-needed-fewer-heads/ar-AA1LJbGL?ocid=entnewsntp&amp;pc=DCTS&amp;cvid=68b746a482114c86a8eac38e1f814092&amp;ei=10" id="187">
+        <title>Salesforce Lays Off 4,000 Employees, CEO Marc Benioff Explains Why: &quot;I Needed Fewer Heads&quot;</title>
+      </bookmark>
+      <bookmark href="https://www.msn.com/en-in/money/topstories/maratha-quota-row-govt-found-solution-in-community-s-interest-says-fadnavis/ar-AA1LID4u?ocid=entnewsntp&amp;cvid=68b7469ac7f44684a52fae933273d0ea&amp;ei=35" id="188">
+        <title>Maratha Quota Row: &apos;Govt found solution in community’s interest,&apos; says Fadnavis</title>
+      </bookmark>
+      <bookmark href="https://netskope.atlassian.net/browse/EP-75039?focusedCommentId=14299979" id="189">
+        <title>[EP-75039] self service for edge-nsproxy-ansible-config - JIRA</title>
+      </bookmark>
+      <folder id="190">
+        <title>Dell</title>
+        <bookmark href="http://www.dellauction.com/" id="413">
+          <title>Dell Auction</title>
+        </bookmark>
+        <bookmark href="http://www1.ap.dell.com/content/default.aspx?c=in&amp;l=en&amp;s=gen" id="414">
+          <title>Dell</title>
+        </bookmark>
+        <bookmark href="http://www.dell.com/support/home" id="415">
+          <title>Support.Dell.Com</title>
+        </bookmark>
+      </folder>
+      <folder id="191">
+        <title>2025-01-08-OpenTabs</title>
+        <folder id="416">
+          <title>TODO</title>
+          <bookmark href="https://docs.google.com/document/d/1PJwi1NFz8oYO54G1RItswudQsujE2NM85ORRPaHRLlI/edit?tab=t.wdg0cb9o6cnz" id="485">
+            <title>docs.google.com</title>
+          </bookmark>
+          <bookmark href="https://anotepad.com/notes/mr7dkrhy" id="486">
+            <title>anotepad.com</title>
+          </bookmark>
+        </folder>
+        <folder id="417">
+          <title>Cap</title>
+          <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/4650008753/Capacity+Request+Portal" id="487">
+            <title>Capacity Request Portal - Capacity Management - Confluence</title>
+          </bookmark>
+          <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/1212711352/Netskope+Cloud+Capacity+Request+Process" id="488">
+            <title>Netskope Cloud Capacity Request Process - Capacity Management - Confluence</title>
+          </bookmark>
+          <bookmark href="https://tickets.netskope.com/login?gcp-iap-mode=AUTHENTICATING&amp;redirect_token_v2=AaGP0PoEU7h4X-_oK9GrRxkjIupIDTvkV9HKUs2YqXiSaT7Lxhr0QqvsDcWID5HwBg-CkEFVp8cFiApe8ot6N27r7X-CIL4zQaXxcDFXHng8PBvjDqr_R7CUBR4oSY9KQgVNNeZ-xw9PL6ST_4FT67FqDTijgTG3Kel3ks_oINfIKhglDdrpsSDKEQpEP4H_qs4Z29d_boQNv68v1Llaun6gL1burunx8pBLcfWU3lIObaQBuu8_kWUw3k2HOy4fqo6AUlKQCmlQi0YUddWI45EBe-W72pe9pnjOuj_kRv5kKmi2RDIXGnMWu5pOTZ-BLr3YWPu7xh_VxE_5tAyjrvA3gK62BdqAUALKxXRTCOzE8wpmmrNq_ZkJWYYAMf0drjHtKemFi6lViSYuA3fO1Xiaymz9cbNFyq5-a12PI7kGppduyK0ieCZsBZ9djDVUBsRuzuU8k_L0twaUo-B_g0M2Gl5tN8xuh5E5XLuLbnygXIWMbJ1_5g-aRFwW66v2x_QomTNVg_8tdg_RgnUIaeqNaHwPNArpmHRkEa01d7Kyo9j5RYa2YfzML14L6-J5bfiHg2iBCsH15sV-cUiPKbfOigTlYO5D_FMG_ptJq9XC2k6GeGTtE3egHo_UJZnGLI5d6SAlxENWDuhxw6Rj94_023TceErhHOueohVuftj8v-rnqRF_-JFtaAr12PfS7GsVK_klRB-sE6sIbL1bMj1Qr39OIupsv-7spbMaMW-GpjqqMKo3nrkEBsTR4X1y-lGDyFUhWVV0YbHsCJjpe5FKo3H_LQA0bwrXFz4FgAW6fpurv_bK4NcfseS-y459jcjX-XIp00m09ujuZZFPQs05tlXs6vgjFqPx-F0XIFPTDr_HVpDfS7MUAt9UkkDDzpWrDzovyIgohsvWpx5DiH1EBNtqa5dY8F-47XTXVVXiHvoOCaFXTakHcVaACmULWDxrHcjRIOkmvGJ1m7ro290pdtVLdErMHu0jjoI40STArH0d_mh9IQfn7J4OxbtjfA49bzsKTcJijmmJ6dh6sCqTz99bWLhwGo0R_LPiRAYKIUqrekP5BHbcb4bRl4lXV8G3v7wv46qEBTu2qUpYnv6RAkX14kNjnBPc5obmd4YqU4FhsLkv-IqODMckN0VwfaQm0hFTd-y_IWsGwUOEDmttSHcMhwIV8zkCDT_EF_ECYW_4LaoaZRtdhQeN5hyCFwrTM729vuRK0mbXvvUKXg3APyrAXmKJWrxEn0ch-lE" id="489">
+            <title>tickets.netskope.com</title>
+          </bookmark>
+        </folder>
+        <folder id="418">
+          <title>acuity</title>
+          <bookmark href="https://netskope.atlassian.net/browse/ENG-629007" id="490">
+            <title>[ENG-629007] [IDFC First Bank][Policy issue] Time_based policy doesn&apos;t match as expected - JIRA</title>
+          </bookmark>
+          <bookmark href="https://netskope.atlassian.net/browse/ENG-629430" id="491">
+            <title>[ENG-629430] NSProxy Rollback of 125.0.0 to 124.0.1 on All POPs - JIRA</title>
+          </bookmark>
+          <bookmark href="https://netskope.atlassian.net/browse/ENG-629694" id="492">
+            <title>[ENG-629694] NSProxy rollback 4/4/25 due to ENG-629007 - JIRA</title>
+          </bookmark>
+        </folder>
+        <folder id="419">
+          <title>OKRs</title>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1wrbzT4sV8B4_IpsNnrBcEk3TgHSkKlo6pjKffPKSa0A/edit?gid=2064719770#gid=2064719770" id="493">
+            <title>docs.google.com</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1UKp7rWILXdi7zLM2Z8pmz4LloP6ffdDky6FYC2Q9twY/edit?gid=384223315#gid=384223315" id="494">
+            <title>docs.google.com</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1wrbzT4sV8B4_IpsNnrBcEk3TgHSkKlo6pjKffPKSa0A/edit?gid=2064719770#gid=2064719770" id="495">
+            <title>docs.google.com</title>
+          </bookmark>
+          <bookmark href="https://docs.google.com/spreadsheets/d/1wrbzT4sV8B4_IpsNnrBcEk3TgHSkKlo6pjKffPKSa0A/edit?gid=2064719770#gid=2064719770" id="496">
+            <title>docs.google.com</title>
+          </bookmark>
+        </folder>
+        <folder id="420">
+          <title>sort_later</title>
+          <bookmark href="https://netskope.atlassian.net/wiki/spaces/ESS/overview" id="497">
+            <title>netskope.atlassian.net</title>
+          </bookmark>
+          <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="498">
+            <title>netskope.atlassian.net</title>
+          </bookmark>
+          <bookmark href="https://github.com/netSkope/prism/tree/master/common-share/grafana/dashboards/prod/NSProxy-SRE" id="499">
+            <title>prism/common-share/grafana/dashboards/prod/NSProxy-SRE at master · netSkope/prism</title>
+          </bookmark>
+          <bookmark href="https://netskope.atlassian.net/wiki/spaces/PE/pages/4665737284/Run+Book+Manifest+updates+required+for+EP+oncall" id="500">
+            <title>netskope.atlassian.net</title>
+          </bookmark>
+        </folder>
+        <bookmark href="edge://extensions/" id="421">
+          <title>Extensions</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="102">
+      <title>2024-07-15-HackerNews</title>
+      <bookmark href="https://news.ycombinator.com/item?id=40957656" id="192">
+        <title>Nevada’s public employee pension fund invests passively and beats peers (2016) | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40950584" id="193">
+        <title>Use a work journal | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40955946" id="194">
+        <title>Dear AWS, please let me be a cloud engineer again | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40914635" id="195">
+        <title>So you want to rent an NVIDIA H100 cluster? 2024 Consumer Guide | Hacker News</title>
+      </bookmark>
+    </folder>
+    <folder id="103">
+      <title>2024-05-09-HackerNews</title>
+      <bookmark href="https://news.ycombinator.com/item?id=40182555" id="196">
+        <title>How I stopped worrying and loved Makefiles | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://www.google.com/search?q=virtualbox+check+if+VM+is+running&amp;oq=virtualbox+check+if+VM+is+running&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDM1NjFqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="197">
+        <title>virtualbox check if VM is running - Google Search</title>
+      </bookmark>
+      <bookmark href="https://superuser.com/questions/622024/how-can-i-tell-if-a-virtual-machine-is-up-from-the-command-line" id="198">
+        <title>virtualbox - How can I tell if a virtual machine is up from the command line? - Super User</title>
+      </bookmark>
+      <bookmark href="https://forum.linuxconfig.org/t/virtualbox-check-virtual-machine-status-from-command-line/1185/6" id="199">
+        <title>Virtualbox - check virtual machine status from command line - Linux Beginners / Newbie - Linux Forum</title>
+      </bookmark>
+      <bookmark href="https://stackoverflow.com/questions/22446152/running-vboxmanage-startvm-how-can-i-tell-when-the-vm-is-running" id="200">
+        <title>virtualbox - Running `VBoxManage startvm ...`: how can I tell when the VM is running? - Stack Overflow</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/?p=12" id="201">
+        <title>Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40304453" id="202">
+        <title>The Time I Lied to the CTO and Saved the Day | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40296744" id="203">
+        <title>Who Wants to Be a Thousandaire? (2011) | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40284164" id="204">
+        <title>Dotfiles: Unofficial Guide to Dotfiles on GitHub | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40273534" id="205">
+        <title>Design docs at Google (2020) | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40285211" id="206">
+        <title>Can turning office towers into apartments save downtowns? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40261014" id="207">
+        <title>What makes a translation great? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40269754" id="208">
+        <title>Book people think they know why 9-year-olds stop reading for fun | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40284389" id="209">
+        <title>Boeing faces new US investigation into &apos;missed&apos; 787 inspections | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40304910" id="210">
+        <title>Google employees question execs over &apos;decline in morale&apos; after blowout earnings | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40303288" id="211">
+        <title>Underhanded Dotfiles | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40292924" id="212">
+        <title>Google is an &apos;amazing example&apos; of employing people in &apos;BS jobs&apos; | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40274158" id="213">
+        <title>How I think about debt | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40293614" id="214">
+        <title>Us revokes Intel, Qualcomm licenses to sell chips to Huawei | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40265552" id="215">
+        <title>Small Things | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40272186" id="216">
+        <title>A useful productivity measure? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40274662" id="217">
+        <title>A fourteen-day free trial ain’t gonna cut it | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40285628" id="218">
+        <title>The Rise of the Forever Renter Class | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=40277547" id="219">
+        <title>The best way to have complex discussions? | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://app.slack.com/client/T029ULNQE/activity?recommended_build_version=1715186847&amp;build_manifest_last_modified=1715189695" id="220">
+        <title>Arun Srinivasan (DM) - Netskope - 25 new items - Slack</title>
+      </bookmark>
+      <bookmark href="https://github.com/netSkope/nsproxy-ansible-config/pull/514" id="221">
+        <title>increase supervisor check timeout by ns-rorsten · Pull Request #514 · netSkope/nsproxy-ansible-config</title>
+      </bookmark>
+    </folder>
+    <folder id="104">
+      <title>2024-07-27-HackerNews</title>
+      <bookmark href="https://news.ycombinator.com/item?id=41075766" id="222">
+        <title>A Swiss town banned billboards. Zurich, Bern may soon follow | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41077496" id="223">
+        <title>Fear of over-engineering has killed engineering altogether | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41036267" id="224">
+        <title>When British Railways deliberately crashed a train | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41069829" id="225">
+        <title>AI solves International Math Olympiad problems at silver medal level | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41073006" id="226">
+        <title>A cheap barcode scanner helped fix CrowdStrike&apos;d Windows PCs in a flash | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41070870" id="227">
+        <title>Unfashionably secure: why we use isolated VMs | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41049666" id="228">
+        <title>Fair Chess and Simultaneous Games | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41060102" id="229">
+        <title>Anyone can access deleted and private repository data on GitHub | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41065227" id="230">
+        <title>Every company should be owned by its employees | Hacker News</title>
+      </bookmark>
+      <bookmark href="https://news.ycombinator.com/item?id=41042929" id="231">
+        <title>Alexa is in millions of households and Amazon is losing billions | Hacker News</title>
+      </bookmark>
+    </folder>
+    <folder id="105">
+      <title>chrome-passwords</title>
+      <bookmark href="https://github.com/ohyicong/decrypt-chrome-passwords/blob/main/decrypt_chrome_password.py" id="232">
+        <title>decrypt-chrome-passwords/decrypt_chrome_password.py at main · ohyicong/decrypt-chrome-passwords · GitHub</title>
+      </bookmark>
+      <bookmark href="https://www.geeksforgeeks.org/how-to-extract-chrome-passwords-in-python/" id="233">
+        <title>How to Extract Chrome Passwords in Python? - GeeksforGeeks</title>
+      </bookmark>
+      <bookmark href="https://geekswipe.net/technology/computing/swoop-chrome-passwords-decrypt-with-python/" id="234">
+        <title>Steal Chrome Passwords and Decrypt with Python - Geekswipe</title>
+      </bookmark>
+      <bookmark href="https://github.com/moonD4rk/HackBrowserData/?tab=readme-ov-file" id="235">
+        <title>GitHub - moonD4rk/HackBrowserData: Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。</title>
+      </bookmark>
+    </folder>
+    <folder id="106">
+      <title>yt</title>
+      <bookmark href="https://www.youtube.com/watch?v=iHagLitT-nI&amp;list=PLvK7fs0-FWq_0a3h-4Sbr4m56TAZZLFK0&amp;index=1" id="236">
+        <title>Thani Oruvan - Kannala Kannala Video | Jayam Ravi, Nayanthara | Hip Hop Tamizha - YouTube</title>
+      </bookmark>
+      <bookmark href="https://www.youtube.com/watch?v=1cQh1ccqu8M&amp;list=PLyjgHc47unfT3BIZo5uEt2a-2TWKy54sU&amp;index=1" id="237">
+        <title>Nickelback - How You Remind Me - YouTube</title>
+      </bookmark>
+    </folder>
+    <folder id="107">
+      <title>Dell</title>
+      <bookmark href="http://www.dellauction.com/" id="238">
+        <title>Dell Auction</title>
+      </bookmark>
+      <bookmark href="http://www1.ap.dell.com/content/default.aspx?c=in&amp;l=en&amp;s=gen" id="239">
+        <title>Dell</title>
+      </bookmark>
+      <bookmark href="http://www.dell.com/support/home" id="240">
+        <title>Support.Dell.Com</title>
+      </bookmark>
+    </folder>
+    <folder id="108">
+      <title>Keep Laptop Awake</title>
+      <bookmark href="https://www.zhornsoftware.co.uk/caffeine/#download" id="241">
+        <title>Caffeine</title>
+      </bookmark>
+      <bookmark href="https://superuser.com/questions/1662597/prevent-windows-10-from-going-to-sleep-on-lock-screen" id="242">
+        <title>Prevent Windows 10 from going to sleep on lock screen - Super User</title>
+      </bookmark>
+      <bookmark href="https://superuser.com/questions/1153162/how-do-i-stop-windows-10-going-to-sleep-after-locking-with-winl-key" id="243">
+        <title>How do I stop Windows 10 going to sleep after locking with Win+L key - Super User</title>
+      </bookmark>
+      <bookmark href="https://www.makeuseof.com/temporarily-disable-sleep-mode-windows/" id="244">
+        <title>How to Temporarily Disable Sleep Mode in Windows 10/11: 4 Ways</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="51">
+    <title>still-to-organize-003</title>
+    <folder id="109">
+      <title>Bookmarks bar</title>
+      <bookmark href="https://booky.io/login" id="245">
+        <title>booky</title>
+      </bookmark>
+      <bookmark href="https://ethercalc.net/1cs9jqrttiou" id="246">
+        <title>1cs9jqrttiou – EtherCalc</title>
+      </bookmark>
+      <bookmark href="chrome://settings/content/all?search=cookies" id="247">
+        <title>Cookies</title>
+      </bookmark>
+      <bookmark href="chrome://settings/clearBrowserData?search=browser" id="248">
+        <title>ClearBrowserData</title>
+      </bookmark>
+      <folder id="249">
+        <title>2025-12-04</title>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1pah56n/cancelled_my_plan_of_going_out_today_not_feeling/" id="422">
+          <title>Cancelled my plan of going out today... not feeling to even go for a run. Just cooking, binging movies and games at home. What are you guys up to today? : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1pacyot/bangalores_biggest_problem_isnt_traffic_its/" id="423">
+          <title>bangalore’s biggest problem isn’t traffic. it’s people who think they’re the exception. : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1pajcni/bengaluru_traffic_should_come_with_quest/" id="424">
+          <title>Bengaluru traffic should come with quest descriptions, not updates : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1p9txia/bangalore_winters_seems_to_get_colder_every_year/" id="425">
+          <title>Bangalore winters seems to get colder every year : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1p9pcuc/frustrated_with_bangalore/" id="426">
+          <title>Frustrated with Bangalore : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1palnuy/why_is_there_no_street_light_behind_iblur_lake/" id="427">
+          <title>Why is there no street light behind Iblur lake? : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1p9awkz/go_vegan_vandalism_is_irritating/" id="428">
+          <title>Go Vegan Vandalism is Irritating : bangalore</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/bangalore/comments/1p9tzje/what_is_up_with_these_street_dogs_man/" id="429">
+          <title>What is up with these street dogs man 😭 : bangalore</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=india+where+to+watch+F1&amp;rlz=1C1GCCA_en&amp;oq=india+where+to+watch+F1&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI1MjRqMGo5qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="430">
+          <title>india where to watch F1 - Google Search</title>
+        </bookmark>
+        <bookmark href="https://dubz.co/c/d5b97d" id="431">
+          <title>Just a moment...</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/formula1/comments/1pami2d/max_lando_and_oscars_radio_during_the_safety_car/" id="432">
+          <title>Max, Lando and Oscar&apos;s radio during the safety car period : formula1</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/formula1/comments/1p9x0r0/oscar_piastri_takes_pole_position_for_the_2025/" id="433">
+          <title>Oscar Piastri takes pole position for the 2025 Qatar Grand Prix : formula1</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/formula1/comments/1paegqm/verstappen_says_he_needs_to_cut_a_corner_to_match/" id="434">
+          <title>Verstappen says he needs to &quot;cut a corner&quot; to match Piastri&apos;s race pace : formula1</title>
+        </bookmark>
+        <bookmark href="https://old.reddit.com/r/formula1/comments/1paevbf/can_lando_seal_the_deal_with_his_first/" id="435">
+          <title>Can Lando seal the deal with his first championship point tonight, or do Max or Oscar save this one? : formula1</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=hashcheck+shell+extension&amp;rlz=1C1GCCA_en&amp;oq=hashcheck+shell+extension&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDI1MDNqMGo5qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="436">
+          <title>hashcheck shell extension - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=VcXsrv&amp;rlz=1C1GCCA_en&amp;oq=VcXsrv&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBBzg4N2owajSoAgCwAgE&amp;sourceid=chrome&amp;ie=UTF-8" id="437">
+          <title>VcXsrv - Google Search</title>
+        </bookmark>
+        <bookmark href="https://vcxsrv.com/" id="438">
+          <title>VcXsrv - Open-Source X Server for Windows</title>
+        </bookmark>
+        <bookmark href="https://www.google.com/search?q=install+virtualbox&amp;rlz=1C1GCCA_en&amp;oq=install+virtualbox&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEzMDVqMGo0qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="439">
+          <title>install virtualbox - Google Search</title>
+        </bookmark>
+        <bookmark href="https://www.xda-developers.com/finally-set-up-explorerpatcher-windows-should-have-sooner/" id="440">
+          <title>I finally set up ExplorerPatcher on Windows, and I should have sooner</title>
+        </bookmark>
+      </folder>
+      <folder id="250">
+        <title>2025-12-12</title>
+        <folder id="441">
+          <title>ngrok</title>
+          <bookmark href="https://tunnelin.com/" id="501">
+            <title>Tunnel In - Single place to manage your network tunnels</title>
+          </bookmark>
+          <bookmark href="https://tunnelmole.com/docs/#installation" id="502">
+            <title>Documentation</title>
+          </bookmark>
+          <bookmark href="https://localhost.run/" id="503">
+            <title>localhost.run | localhost.run</title>
+          </bookmark>
+        </folder>
+        <folder id="442">
+          <title>parallel_ssh</title>
+          <bookmark href="https://unix.stackexchange.com/questions/19008/automatically-run-commands-over-ssh-on-many-servers" id="504">
+            <title>scripting - Automatically run commands over SSH on many servers - Unix &amp; Linux Stack Exchange</title>
+          </bookmark>
+          <bookmark href="https://unix.stackexchange.com/questions/19008/automatically-run-commands-over-ssh-on-many-servers/704487#704487" id="505">
+            <title>scripting - Automatically run commands over SSH on many servers - Unix &amp; Linux Stack Exchange</title>
+          </bookmark>
+          <bookmark href="https://stackoverflow.com/questions/22896002/ssh-to-multiple-hosts-at-once" id="506">
+            <title>SSH to multiple hosts at once - Stack Overflow</title>
+          </bookmark>
+          <bookmark href="https://stackoverflow.com/questions/67412162/ssh-into-multiple-machines-and-run-multiple-commands" id="507">
+            <title>bash - SSH into multiple machines and run multiple commands - Stack Overflow</title>
+          </bookmark>
+          <bookmark href="https://stackoverflow.com/questions/53767286/sshing-into-several-hosts-sequentially-from-my-local-machine-with-one-command" id="508">
+            <title>ssh - SSHing into several hosts sequentially from my local machine with one command - Stack Overflow</title>
+          </bookmark>
+          <bookmark href="https://www.reddit.com/r/linuxquestions/comments/mq7kxo/best_way_to_manage_ssh_connections_to_multiple/" id="509">
+            <title>Best way to manage ssh connections to multiple servers via terminal? : r/linuxquestions</title>
+          </bookmark>
+          <bookmark href="https://www.reddit.com/r/linuxadmin/comments/1bqkkc8/linux_run_a_single_command_across_multiple/" id="510">
+            <title>Linux: Run a Single Command across Multiple Servers with SSH : r/linuxadmin</title>
+          </bookmark>
+          <bookmark href="https://thenewstack.io/linux-run-a-single-command-across-multiple-servers-with-ssh/" id="511">
+            <title>Linux: Run a Single Command across Multiple Servers with SSH - The New Stack</title>
+          </bookmark>
+          <bookmark href="https://github.com/chaos/pdsh" id="512">
+            <title>GitHub - chaos/pdsh: A high performance, parallel remote shell utility</title>
+          </bookmark>
+          <bookmark href="https://www.interserver.net/tips/kb/parallel-command-execution-on-multiple-servers-using-parallel-ssh/" id="513">
+            <title>Parallel Command Execution on Multiple Servers Using parallel-ssh - Interserver Tips</title>
+          </bookmark>
+          <bookmark href="https://serverfault.com/questions/259240/parallel-execution-of-different-commands-on-multiple-hosts" id="514">
+            <title>linux - Parallel execution of different commands on multiple hosts - Server Fault</title>
+          </bookmark>
+          <bookmark href="https://www.google.com/search?q=pdsh+vs+pssh&amp;rlz=1C1GCCA_en&amp;oq=pdsh+vs+pssh&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDEzMTFqMGoxqAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8" id="515">
+            <title>pdsh vs pssh - Google Search</title>
+          </bookmark>
+        </folder>
+        <folder id="443">
+          <title>echo_printf</title>
+          <bookmark href="https://www.google.com/search?q=bash+printf+hacks&amp;rlz=1C1GCCA_en&amp;oq=bash+printf+hacks&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDE2OTFqMGo5qAIAsAIB&amp;sourceid=chrome&amp;ie=UTF-8" id="516">
+            <title>bash printf hacks - Google Search</title>
+          </bookmark>
+          <bookmark href="https://unix.stackexchange.com/questions/58310/difference-between-printf-and-echo-in-bash" id="517">
+            <title>Difference between printf and echo in bash - Unix &amp; Linux Stack Exchange</title>
+          </bookmark>
+          <bookmark href="https://unix.stackexchange.com/questions/65803/why-is-printf-better-than-echo" id="518">
+            <title>text processing - Why is printf better than echo? - Unix &amp; Linux Stack Exchange</title>
+          </bookmark>
+          <bookmark href="https://unix.stackexchange.com/questions/503408/using-echo-printf-in-bash-function-calls" id="519">
+            <title>shell script - using &apos;echo&apos; &amp; &apos;printf&apos; in bash function calls - Unix &amp; Linux Stack Exchange</title>
+          </bookmark>
+          <bookmark href="https://www.reddit.com/r/bash/comments/1519wby/why_printf_over_echo_noob_question/" id="520">
+            <title>Why printf over echo? (noob question) : r/bash</title>
+          </bookmark>
+          <bookmark href="https://www.reddit.com/r/shell/comments/wi2815/echo_vs_printf_which_is_your_preference_and_why/" id="521">
+            <title>echo vs printf - Which is your preference and why? : r/shell</title>
+          </bookmark>
+          <bookmark href="https://www.reddit.com/r/bash/comments/bhb2ps/is_there_a_right_or_wrong_with_echo_vs_printf/" id="522">
+            <title>Is there a right or wrong with echo vs. printf? : r/bash</title>
+          </bookmark>
+          <bookmark href="https://stackoverflow.com/questions/66448210/difference-between-echo-and-printf-in-bash" id="523">
+            <title>Difference between echo and printf in Bash - Stack Overflow</title>
+          </bookmark>
+        </folder>
+        <folder id="444">
+          <title>keyboard</title>
+          <bookmark href="https://www.amazon.in/EvoFox-Wired-Mechanical-Dampening-Swappable/dp/B0DGV9VLFZ/ref=sr_1_8?crid=26BJ55WFA5R2N&amp;dib=eyJ2IjoiMSJ9.jtcfVnnNswcoIx0vXVbrwBkzDZVp1uc3_z21mduq6rHKUTPZrGqYdPUzmBqyEVMEFcAq4NuMkLIuqdXQPBoZRyyOuvsAPipKjHGkp4gyNcHDX8Jg4MpTwc0gWv_QYQzqEDEjOiPGZFZOPDNP6AS9KAXj6IJlJT1FkAVijYr0c8MC-WoZfwGBgzHM5xDWc7TLplDrCQGEgfPp28Yi-pRuU5ZLjvjoGCGQv646XsfjNAI.U6OKcTOOsAeilZUOi1fDnImDIMOLJe48FsUg1QwfQIw&amp;dib_tag=se&amp;keywords=silent%2Bkeyboard&amp;qid=1765474881&amp;sprefix=silent%2Bkeyboa%2Caps%2C234&amp;sr=8-8&amp;th=1" id="524">
+            <title>EvoFox Ronin Wired Mechanical Gaming Keyboard | 9 Layer Gasket Sound Dampening Design, Outemu Red Silent Switches, Hot Swappable, Per-Key RGB, nKey Rollover, Volume Knob | Windows Software (Black) : Amazon.in: Computers &amp; Accessories</title>
+          </bookmark>
+          <bookmark href="https://www.amazon.in/Portronics-Multimedia-Wireless-Keyboard-Technology/dp/B0BHYJ8CVF/ref=sr_1_10_in_f3_0o_at_mod_primary_alm?crid=26BJ55WFA5R2N&amp;dib=eyJ2IjoiMSJ9.jtcfVnnNswcoIx0vXVbrwBkzDZVp1uc3_z21mduq6rHKUTPZrGqYdPUzmBqyEVMEFcAq4NuMkLIuqdXQPBoZRyyOuvsAPipKjHGkp4gyNcHDX8Jg4MpTwc0gWv_QYQzqEDEjOiPGZFZOPDNP6AS9KAXj6IJlJT1FkAVijYr0c8MC-WoZfwGBgzHM5xDWc7TLplDrCQGEgfPp28Yi-pRuU5ZLjvjoGCGQv646XsfjNAI.U6OKcTOOsAeilZUOi1fDnImDIMOLJe48FsUg1QwfQIw&amp;dib_tag=se&amp;keywords=silent%2Bkeyboard&amp;qid=1765474881&amp;sbo=m6DjfpMzMLDmL8pSMKX8hw%3D%3D&amp;sprefix=silent%2Bkeyboa%2Caps%2C234&amp;sr=8-10&amp;th=1" id="525">
+            <title>Amazon.in: Buy Portronics Key2 Combo Wireless Keyboard and Mouse Set,with 2.4 GHz USB Receiver,Silent Keystrokes,1200 DPI Optical Tracking,Compact Design,Multimedia Keys for PC,Laptop &amp; USB Supported Devices(Grey) Online at Low Prices in India | Portronics Reviews &amp;amp; Ratings</title>
+          </bookmark>
+          <bookmark href="https://www.amazon.in/ASUS-Marshmallow-KW100-Wireless-Keyboard/dp/B0F7HBLYB8/ref=sr_1_13?crid=26BJ55WFA5R2N&amp;dib=eyJ2IjoiMSJ9.jtcfVnnNswcoIx0vXVbrwBkzDZVp1uc3_z21mduq6rHKUTPZrGqYdPUzmBqyEVMEFcAq4NuMkLIuqdXQPBoZRyyOuvsAPipKjHGkp4gyNcHDX8Jg4MpTwc0gWv_QYQzqEDEjOiPGZFZOPDNP6AS9KAXj6IJlJT1FkAVijYr0c8MC-WoZfwGBgzHM5xDWc7TLplDrCQGEgfPp28Yi-pRuU5ZLjvjoGCGQv646XsfjNAI.U6OKcTOOsAeilZUOi1fDnImDIMOLJe48FsUg1QwfQIw&amp;dib_tag=se&amp;keywords=silent%2Bkeyboard&amp;qid=1765474881&amp;sprefix=silent%2Bkeyboa%2Caps%2C234&amp;sr=8-13&amp;th=1" id="526">
+            <title>Amazon.in: Buy ASUS Marshmallow KW100 Wireless Keyboard – Iridescent White | Silent Scissor Keys, Compact Design, 2-Year Battery Life, Compatible with Windows/Mac/Chrome/iOS/with Dedicated Copilot Key Online at Low Prices in India | ASUS Reviews &amp;amp; Ratings</title>
+          </bookmark>
+          <bookmark href="https://www.amazon.in/EvoFox-Wired-Mechanical-Dampening-Swappable/dp/B0F66GZ58Z/ref=sr_1_18?crid=26BJ55WFA5R2N&amp;dib=eyJ2IjoiMSJ9.jtcfVnnNswcoIx0vXVbrwBkzDZVp1uc3_z21mduq6rHKUTPZrGqYdPUzmBqyEVMEFcAq4NuMkLIuqdXQPBoZRyyOuvsAPipKjHGkp4gyNcHDX8Jg4MpTwc0gWv_QYQzqEDEjOiPGZFZOPDNP6AS9KAXj6IJlJT1FkAVijYr0c8MC-WoZfwGBgzHM5xDWc7TLplDrCQGEgfPp28Yi-pRuU5ZLjvjoGCGQv646XsfjNAI.U6OKcTOOsAeilZUOi1fDnImDIMOLJe48FsUg1QwfQIw&amp;dib_tag=se&amp;keywords=silent%2Bkeyboard&amp;qid=1765474881&amp;sprefix=silent%2Bkeyboa%2Caps%2C234&amp;sr=8-18&amp;th=1" id="527">
+            <title>EvoFox Ronin Wired Mechanical Gaming Keyboard | 9 Layer Gasket Sound Dampening Design, Outemu Red Silent Switches, Hot Swappable, Per-Key RGB, nKey Rollover, Volume Knob | Windows Software (White) : Amazon.in: Computers &amp; Accessories</title>
+          </bookmark>
+        </folder>
+        <folder id="445">
+          <title>apt-wait</title>
+          <bookmark href="https://askubuntu.com/questions/132059/how-to-make-a-package-manager-wait-if-another-instance-of-apt-is-running" id="528">
+            <title>command line - How to make a package manager wait if another instance of APT is running? - Ask Ubuntu</title>
+          </bookmark>
+          <bookmark href="https://blog.sinjakli.co.uk/2021/10/25/waiting-for-apt-locks-without-the-hacky-bash-scripts/" id="529">
+            <title>Waiting for apt locks without the hacky bash scripts</title>
+          </bookmark>
+          <bookmark href="https://unix.stackexchange.com/questions/242539/apt-get-wait-for-lock-release" id="530">
+            <title>apt-get wait for lock release - Unix &amp; Linux Stack Exchange</title>
+          </bookmark>
+          <bookmark href="https://github.com/ansible/ansible/issues/78658" id="531">
+            <title>apt module with lock_timeout option not working as expected · Issue #78658 · ansible/ansible</title>
+          </bookmark>
+          <bookmark href="https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_loops.html" id="532">
+            <title>Loops — Ansible Community Documentation</title>
+          </bookmark>
+          <bookmark href="https://github.com/ansible/ansible/issues/28078" id="533">
+            <title>retries are not working properly · Issue #28078 · ansible/ansible</title>
+          </bookmark>
+          <bookmark href="https://www.putorius.net/lock-files-bash-scripts.html" id="534">
+            <title>Using Lock Files for Job Control in Bash Scripts - Putorius</title>
+          </bookmark>
+        </folder>
+      </folder>
+      <bookmark href="javascript: (function () {  const forceEnableCopyPaste = (e) =&gt; {    e.stopImmediatePropagation();    return true;  };  [&apos;paste&apos;, &apos;copy&apos;].forEach(event =&gt; {    document.addEventListener(event, forceEnableCopyPaste, true);  });})();" id="251">
+        <title>paste</title>
+      </bookmark>
+      <bookmark href="data:text/html, &lt;html contenteditable&gt;" id="252">
+        <title>Kotak 811 - Aadhaar/PAN Verification</title>
+      </bookmark>
+      <bookmark href="javascript:forceBrowserDefault=(e=&gt;{e.stopImmediatePropagation();return true;});[&apos;copy&apos;,&apos;cut&apos;,&apos;paste&apos;].forEach(e=&gt;document.addEventListener(e,forceBrowserDefault,true));" id="253">
+        <title>Kotak 811 - Aadhaar/PAN Verification</title>
+      </bookmark>
+    </folder>
+    <folder id="110">
+      <title>2025-01-07</title>
+      <bookmark href="https://scribz.net/n/1729750" id="254">
+        <title>WAITING ON</title>
+      </bookmark>
+      <bookmark href="https://shiprocket.co/tracking/76778056681" id="255">
+        <title>BEYOUNG FOLKS PRIVATE LIMITED - Order Tracking - By Shiprocket</title>
+      </bookmark>
+      <folder id="256">
+        <title>GooglePlay</title>
+        <bookmark href="https://store.jiogames.com/profile/orders" id="446">
+          <title>Google Play Gift Card &amp; Recharge Code India| Instant Delivery</title>
+        </bookmark>
+        <bookmark href="https://anotepad.com/notes/dqtb9c8i" id="447">
+          <title>Google Play Gift Cards - Online Notepad</title>
+        </bookmark>
+      </folder>
+      <folder id="257">
+        <title>tar hash</title>
+        <bookmark href="https://superuser.com/questions/1192917/why-does-my-md5sum-hash-not-match-other-md5s" id="448">
+          <title>linux - Why does my md5sum hash not match other md5s? - Super User</title>
+        </bookmark>
+        <bookmark href="https://unix.stackexchange.com/questions/438329/tar-produces-different-files-each-time" id="449">
+          <title>Tar produces different files each time - Unix &amp; Linux Stack Exchange</title>
+        </bookmark>
+        <bookmark href="https://serverfault.com/questions/110208/different-md5sums-for-same-tar-contents" id="450">
+          <title>md5 - Different md5sums for same tar contents - Server Fault</title>
+        </bookmark>
+      </folder>
+      <folder id="258">
+        <title>ikea bags</title>
+        <bookmark href="https://www.ikea.com/in/en/p/knalla-bag-black-white-80473694/?gad_source=1&amp;gad_campaignid=23063949567&amp;gbraid=0AAAAADHc5iTb7fvHPItdEinjP7nO1K5PM&amp;gclid=Cj0KCQiAgvPKBhCxARIsAOlK_EpWSTmEos2AbRJYsAONk0CheDkNsa-lOzPuZUQ-ECEzOIUpT-_1sp4aAkh9EALw_wcB" id="451">
+          <title>KNALLA bag, black/white, 40x25x47 cm/47 l (15 ¾x9 ¾x18 ½&quot;/12 gallon) - IKEA</title>
+        </bookmark>
+        <bookmark href="https://www.ikea.com/in/en/p/goersnygg-bag-90595949/?gad_source=1" id="452">
+          <title>GÖRSNYGG bag, 40x30x60 cm/72 l (15 ¾x11 ¾x23 ½&quot;/19 gallon) - IKEA</title>
+        </bookmark>
+        <bookmark href="https://www.ikea.com/in/en/p/dimpa-storage-bag-transparent-90187753/" id="453">
+          <title>DIMPA storage bag, transparent, 65x22x65 cm (25 ½x8 ¾x25 ½&quot;) - IKEA</title>
+        </bookmark>
+        <bookmark href="https://ethercalc.net/1cs9jqrttiou" id="454">
+          <title>1cs9jqrttiou – EtherCalc</title>
+        </bookmark>
+      </folder>
+      <folder id="259">
+        <title>editors</title>
+        <bookmark href="https://docs.helix-editor.com/install.html" id="455">
+          <title>Installation</title>
+        </bookmark>
+        <bookmark href="https://zed.dev/" id="456">
+          <title>Zed — Love your editor again</title>
+        </bookmark>
+        <bookmark href="https://kate-editor.org/" id="457">
+          <title>Kate - Get an Edge in Editing</title>
+        </bookmark>
+      </folder>
+      <folder id="260">
+        <title>HN</title>
+        <bookmark href="https://news.ycombinator.com/item?id=46488819" id="458">
+          <title>Lessons from 14 years at Google | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46498309" id="459">
+          <title>Jensen: &apos;We&apos;ve done our country a great disservice&apos; by offshoring | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46491486" id="460">
+          <title>Claude Code On-the-Go | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46491749" id="461">
+          <title>Show HN: Terminal UI for AWS | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46488355" id="462">
+          <title>The unbearable joy of sitting alone in a café | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46488654" id="463">
+          <title>Show HN: An interactive guide to how browsers work | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46499694" id="464">
+          <title>Show HN: A simulator for engineers transitioning from IC to management | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46512881" id="465">
+          <title>65% of Hacker News Posts Have Negative Sentiment, and They Outperform | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46511153" id="466">
+          <title>AWS raises GPU prices 15% on a Saturday, hopes you weren&apos;t paying attention | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46466027" id="467">
+          <title>Try to take my position: The best promotion advice I ever got | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46505735" id="468">
+          <title>Why didn&apos;t AI “join the workforce” in 2025? | Hacker News</title>
+        </bookmark>
+        <bookmark href="https://news.ycombinator.com/item?id=46498735" id="469">
+          <title>I switched from VSCode to Zed | Hacker News</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://booky.io/" id="261">
+        <title>booky</title>
+      </bookmark>
+    </folder>
+  </folder>
+</folder>
+</xbel>
