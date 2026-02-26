@@ -79,6 +79,12 @@
     <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="498">
       <title>netskope.atlassian.net</title>
     </bookmark>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/4650008753/Capacity+Request+Portal" id="487">
+      <title>Capacity Request Portal - Capacity Management - Confluence</title>
+    </bookmark>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/1212711352/Netskope+Cloud+Capacity+Request+Process" id="488">
+      <title>Netskope Cloud Capacity Request Process - Capacity Management - Confluence</title>
+    </bookmark>
   </folder>
   <folder id="9">
     <title>reddit-WFH</title>
@@ -1052,15 +1058,6 @@
       </folder>
       <folder id="191">
         <title>2025-01-08-OpenTabs</title>
-        <folder id="417">
-          <title>Cap</title>
-          <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/4650008753/Capacity+Request+Portal" id="487">
-            <title>Capacity Request Portal - Capacity Management - Confluence</title>
-          </bookmark>
-          <bookmark href="https://netskope.atlassian.net/wiki/spaces/CAPM/pages/1212711352/Netskope+Cloud+Capacity+Request+Process" id="488">
-            <title>Netskope Cloud Capacity Request Process - Capacity Management - Confluence</title>
-          </bookmark>
-        </folder>
         <folder id="419">
           <title>OKRs</title>
           <bookmark href="https://docs.google.com/spreadsheets/d/1wrbzT4sV8B4_IpsNnrBcEk3TgHSkKlo6pjKffPKSa0A/edit?gid=2064719770#gid=2064719770" id="493">
