@@ -5,9 +5,6 @@
 
 <folder id="1">
   <title>Bookmarks Bar</title>
-  <bookmark href="chrome://bookmarks/" id="3">
-    <title>Bookmarks</title>
-  </bookmark>
   <bookmark href="chrome://settings/content/all" id="4">
     <title>cookies</title>
   </bookmark>
@@ -1132,7 +1129,7 @@
         </bookmark>
       </folder>
       <bookmark href="https://stackoverflow.com/questions/509690/how-can-you-list-the-matches-of-vims-search" id="180">
-        <title>VIM search list </title>
+        <title>VIM search list</title>
       </bookmark>
     </folder>
     <folder id="102">
