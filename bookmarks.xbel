@@ -1102,9 +1102,6 @@
           <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="498">
             <title>netskope.atlassian.net</title>
           </bookmark>
-          <bookmark href="https://github.com/netSkope/prism/tree/master/common-share/grafana/dashboards/prod/NSProxy-SRE" id="499">
-            <title>prism/common-share/grafana/dashboards/prod/NSProxy-SRE at master · netSkope/prism</title>
-          </bookmark>
         </folder>
         <bookmark href="edge://extensions/" id="421">
           <title>Extensions</title>
