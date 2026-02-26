@@ -1073,18 +1073,6 @@
             <title>tickets.netskope.com</title>
           </bookmark>
         </folder>
-        <folder id="418">
-          <title>acuity</title>
-          <bookmark href="https://netskope.atlassian.net/browse/ENG-629007" id="490">
-            <title>[ENG-629007] [IDFC First Bank][Policy issue] Time_based policy doesn&apos;t match as expected - JIRA</title>
-          </bookmark>
-          <bookmark href="https://netskope.atlassian.net/browse/ENG-629430" id="491">
-            <title>[ENG-629430] NSProxy Rollback of 125.0.0 to 124.0.1 on All POPs - JIRA</title>
-          </bookmark>
-          <bookmark href="https://netskope.atlassian.net/browse/ENG-629694" id="492">
-            <title>[ENG-629694] NSProxy rollback 4/4/25 due to ENG-629007 - JIRA</title>
-          </bookmark>
-        </folder>
         <folder id="419">
           <title>OKRs</title>
           <bookmark href="https://docs.google.com/spreadsheets/d/1wrbzT4sV8B4_IpsNnrBcEk3TgHSkKlo6pjKffPKSa0A/edit?gid=2064719770#gid=2064719770" id="493">
