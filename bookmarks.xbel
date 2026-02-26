@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :540: for Floccus bookmark sync browser extension -->
+<!--- highestId :541: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -10,6 +10,9 @@
   </bookmark>
   <bookmark href="chrome://settings/content/all" id="4">
     <title>cookies</title>
+  </bookmark>
+  <bookmark href="https://www.google.com/" id="541">
+    <title>Google</title>
   </bookmark>
 </folder>
 <folder id="2">
@@ -1012,7 +1015,7 @@
         <title>DISK SPACES</title>
       </bookmark>
       <bookmark href="https://stackoverflow.com/questions/509690/how-can-you-list-the-matches-of-vims-search" id="180">
-        <title>VIM search list </title>
+        <title>VIM search list</title>
       </bookmark>
       <bookmark href="https://old.reddit.com/r/linux/comments/oljiov/what_are_your_favourite_minimalist_file_managers/" id="181">
         <title>File managers</title>
