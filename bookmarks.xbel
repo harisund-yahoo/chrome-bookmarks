@@ -73,6 +73,12 @@
     <bookmark href="https://docs.google.com/spreadsheets/d/1zXiOBvwfnx_0DAVqaQ_wZdkYh0yNYa5e1blydW1krMc/edit?pli=1#gid=0" id="34">
       <title>Netskope Activities Directory - Google Sheets</title>
     </bookmark>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/ESS/overview" id="497">
+      <title>netskope.atlassian.net</title>
+    </bookmark>
+    <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="498">
+      <title>netskope.atlassian.net</title>
+    </bookmark>
   </folder>
   <folder id="9">
     <title>reddit-WFH</title>
@@ -1092,15 +1098,6 @@
           </bookmark>
           <bookmark href="https://docs.google.com/spreadsheets/d/1wrbzT4sV8B4_IpsNnrBcEk3TgHSkKlo6pjKffPKSa0A/edit?gid=2064719770#gid=2064719770" id="496">
             <title>docs.google.com</title>
-          </bookmark>
-        </folder>
-        <folder id="420">
-          <title>sort_later</title>
-          <bookmark href="https://netskope.atlassian.net/wiki/spaces/ESS/overview" id="497">
-            <title>netskope.atlassian.net</title>
-          </bookmark>
-          <bookmark href="https://netskope.atlassian.net/wiki/spaces/OBS/pages/4294017062/Guide+to+AWS+Prism+Grafana" id="498">
-            <title>netskope.atlassian.net</title>
           </bookmark>
         </folder>
         <bookmark href="edge://extensions/" id="421">
