@@ -11,9 +11,6 @@
   <bookmark href="chrome://settings/content/all" id="4">
     <title>cookies</title>
   </bookmark>
-  <bookmark href="https://www.google.com/" id="541">
-    <title>Google</title>
-  </bookmark>
 </folder>
 <folder id="2">
   <title>Other Bookmarks</title>
@@ -1014,9 +1011,6 @@
       <bookmark href="https://ethercalc.net/9qf7je6vpzkj" id="179">
         <title>DISK SPACES</title>
       </bookmark>
-      <bookmark href="https://stackoverflow.com/questions/509690/how-can-you-list-the-matches-of-vims-search" id="180">
-        <title>VIM search list</title>
-      </bookmark>
       <bookmark href="https://old.reddit.com/r/linux/comments/oljiov/what_are_your_favourite_minimalist_file_managers/" id="181">
         <title>File managers</title>
       </bookmark>
@@ -1137,6 +1131,9 @@
           <title>Extensions</title>
         </bookmark>
       </folder>
+      <bookmark href="https://stackoverflow.com/questions/509690/how-can-you-list-the-matches-of-vims-search" id="180">
+        <title>VIM search list</title>
+      </bookmark>
     </folder>
     <folder id="102">
       <title>2024-07-15-HackerNews</title>
