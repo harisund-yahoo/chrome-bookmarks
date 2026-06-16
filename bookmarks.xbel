@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :551: for Floccus bookmark sync browser extension -->
+<!--- highestId :552: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>Bookmarks Bar</title>
@@ -14,8 +14,8 @@
   <bookmark href="https://booky.io/login" id="548">
     <title>B</title>
   </bookmark>
-  <bookmark href="javascript:void [&quot;contextmenu&quot;,&quot;copy&quot;,&quot;paste&quot;,&quot;selectstart&quot;].map(e=&gt;documen" id="551">
-    <title>nopass</title>
+  <bookmark href="javascript:void [&quot;contextmenu&quot;,&quot;copy&quot;,&quot;paste&quot;,&quot;selectstart&quot;].map(e=&gt;document.addEventListener(e,e=&gt;e.stopPropagation(),true))" id="552">
+    <title>nopaste</title>
   </bookmark>
 </folder>
 <folder id="2">
